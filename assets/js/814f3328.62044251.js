@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkikuchanwiki=self.webpackChunkikuchanwiki||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u5173\u4e8e FC \u7f51\u7ad9\u987b\u77e5","permalink":"/wiki/blog/\u5173\u4e8eFC"}]}')}}]);
