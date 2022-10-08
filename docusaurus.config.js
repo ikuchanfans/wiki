@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '欢迎来到生田绘梨花FC群wiki',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/ikuchanfans/wiki',
-  baseUrl: '/',
+  url: 'https://github.com/',
+  baseUrl: '/wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -18,6 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ikuchanfans', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
