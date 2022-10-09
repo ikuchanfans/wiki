@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '欢迎来到生田绘梨花FC群wiki',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/',
+  url: 'https://ikuchanfans.github.io',
   baseUrl: '/wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
