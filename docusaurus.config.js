@@ -51,13 +51,14 @@ const config = {
         },
       }),
     ],
+  ],
+
+  plugins: [
     [
-      'docusaurus/plugin-google-gtag',
+      '@docusaurus/plugin-google-gtag',
       {
-        gtag: {
-          trackingID: 'G-98DT65XJX1',
-          anonymizeIP: true,
-        },
+        trackingID: 'G-98DT65XJX1',
+        anonymizeIP: true,
       },
     ],
   ],
