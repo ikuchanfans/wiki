@@ -70,10 +70,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-body {
-  max-width: fit-content;
-}
-
 .blogPostTitle_node_modules-\@docusaurus-theme-classic-lib-next-theme-BlogPostItem-styles-module
   a {
   color: var(--chakra-colors-gray-800);
@@ -209,4 +205,9 @@ body {
 
 .react-flow .react-flow__attribution {
   z-index: 6;
+}
+@media screen and (max-width: 475px) {
+  body {
+    width: fit-content;
+  }
 }
