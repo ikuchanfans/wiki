@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ikuchanfans', // Usually your GitHub org/user name.
+  organizationName: 'ikuchanfans', // Usual`ly your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -50,6 +50,15 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+    [
+      'docusaurus/plugin-google-gtag',
+      {
+        gtag: {
+          trackingID: 'G-98DT65XJX1',
+          anonymizeIP: true,
+        },
+      },
     ],
   ],
 
