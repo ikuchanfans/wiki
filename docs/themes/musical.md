@@ -420,7 +420,9 @@ sidebar_position: 2
 
 - 简介&概念专辑 Download: https://m.weibo.cn/status/4586333969847574
 - 本篇:
-  - 7.1 福岡・博多座配信 18:00 開演 出演:木村達成 生田絵梨花 唯月ふうか 水田航生 生: https://www.bilibili.com/video/BV11B4y1v7UP
+  - 7.1 福岡・博多座配信 18:00 開演 出演:木村達成 生田絵梨花 唯月ふうか 水田航生 
+    - 生: https://www.bilibili.com/video/BV11B4y1v7UP
+    - 熟: https://weibo.com/5177703789/M8lMvezdB
   - 7.2 福岡・博多座配信 12:00 開演 出演:小関裕太 生田絵梨花 唯月ふうか 水田航生 生: https://pan.baidu.com/s/1aslnrKiG3V3iiWq2HXAVOQ?pwd=ix83
 - 概念专辑制作生田绘梨花 making
   - https://www.bilibili.com/video/BV1wK411g71t
@@ -433,6 +435,26 @@ sidebar_position: 2
 **评论感想**
 
 🥺🥺🥺
+
+## 15. 『Mean girls』贱女孩
+![『Mean girls』](https://musical-meangirls.jp/img_top/set4/99.jpg)
+
+**演出时间 & 地点**
+
+- 2022 年
+  - 1 月 30 日 - 2 月 12 日 【東京】東京建物 Brillia HALL [详细日程](https://musical-meangirls.jp/schedule.html)
+  - 2 月 17 日 - 2 月 19 日 【福岡】キャナルシティ劇場
+  - 2 月 23 日 - 2 月 27 日 【大阪】森ノ宮ピロティホール
+
+**角色**
+
+- 主演 **ケイディ・ヘロン**（凯蒂） 役
+
+**物料&简要说明**
+
+- 简介: 16岁的青春少女凯蒂·荷伦，跟随她动物学家的父母在非洲长大， 16年里生活在非洲的凯蒂跟随她动物学家的父母在非洲长大， 回到学校在女孩子中生存的故事
+- 待更新
+
 
 ## 🟪 乃木坂 46 演出
 
