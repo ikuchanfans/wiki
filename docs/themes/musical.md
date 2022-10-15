@@ -31,6 +31,8 @@ sidebar_position: 2
 | 2020.7.11              | 『**Happily Ever After**』[ Happily Ever After](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md#12-happily-ever-after)                                                                                                                               | **少女**                             |
 | 2021.4.22 ~ 4.24       | [『**COCOON PRODUCTION 2021「シブヤデアイマショウ」**』](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md#13-cocoon-production-2021シブヤデアイマショウ)                                                                                              | **登场嘉宾**                         |
 | 2022.5.7 ~ 2022.5.29   | 『 **四月は君の嘘**』[四月是你的谎言](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md#14-四月は君の嘘四月是你的谎言)                                                                                                                                 | **宮園かをり** 宫园薰                |
+| 2023.1.30 ~ 2023.2.27   | 『 **Mean girls**』[贱女孩](https://github.com/ikuchanfans/wiki/edit/main/docs/themes/musical.md#15-mean-girls%E8%B4%B1%E5%A5%B3%E5%AD%A9)                                                                                                                                 | **ケイディ・ヘロン** 凯蒂              |
+
 
 乃木坂 46 团内演出 ↓
 
@@ -441,7 +443,7 @@ sidebar_position: 2
 
 **演出时间 & 地点**
 
-- 2022 年
+- 2023 年
   - 1 月 30 日 - 2 月 12 日 【東京】東京建物 Brillia HALL [详细日程](https://musical-meangirls.jp/schedule.html)
   - 2 月 17 日 - 2 月 19 日 【福岡】キャナルシティ劇場
   - 2 月 23 日 - 2 月 27 日 【大阪】森ノ宮ピロティホール
