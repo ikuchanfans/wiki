@@ -19,7 +19,7 @@ slug: /
 | 2022.10.8 | 番组 | 富士电视台「ドラマツアーズ2022秋 ～豪華俳優陣勢ぞろい月9＆月10SP～」 14:30～15:25        |  [熟](https://weibo.com/tv/show/1034:4822511909797918)              |          |
 | 2022.10.8 | 音乐 | 『MUSIC FAIR』「ルージュの伝言」(「魔女の宅急便」)  18:00           |     [熟](https://www.bilibili.com/video/BV15T411N7Ht)                              |                                          |
 | 2022.10.8 | 音乐 | 『Venue101EXTRA』NHK東京ホール放送#2   嘉宾:ao『チェンジ』 04LimitedSazabys『Keepgoing』 JO1『SuperCali』 ハマいく『ビートDEトーヒ』   |    [生](https://www.bilibili.com/video/BV1eB4y1j7jw)         |  [副音轨](https://pan.baidu.com/s/1mLjS8gZKhZKMoQLoBcNQqQ?pwd=0122)         |
-| 2022.10.9 | 番组   | フジテレビ「絶対！見たくな〜るTV」26:00〜26:10   | [生](https://www.bilibili.com/video/BV12e41157CM)      |                      |
+| 2022.10.9 | 番组   | フジテレビ「絶対！見たくな〜るTV」26:00〜26:10   | [微博](https://weibo.com/6515472212/MataSm2zb)      |                      |
 | 2022.10.10 | 电视剧   | 富士电视台『PICU 小児集中治療室』#1 21:00~   | [霸王龙压制](https://t-rex.tzfile.com/7344.html)      |                      |
 | 2022.10.14   | CM      | Apuweiser-riche Winter 发表                                                                                                                                                              |                     [网盘](https://pan.baidu.com/s/1mjN_7KLrGFqA-A7D1j0e6A?pwd=0122)                     | [Apuweiser-riche 官网](https://ap-story.jp/cts/apuweiser-riche/221014_apu_catalog.html)           |
 | 2022.10.17 | 电视剧   | 富士电视台『PICU 小児集中治療室』#2 21:00~   |       |                      |
