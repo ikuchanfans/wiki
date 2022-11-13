@@ -27,6 +27,7 @@ slug: /
 | 2022.11.5 | 音乐   | 『Venue101』#18 MC 23:00~ 嘉宾:日向坂46『月と星が踊るMidnight』 藤原さくら『まばたき』 緑黄色社会『ミチヲユケ』  | [蓝cut](https://www.bilibili.com/video/BV18e411F7ko)     |    [生](https://www.bilibili.com/video/BV15K411m7U6)    |
 | 2022.11.7 | 电视剧   | 富士电视台『PICU 小児集中治療室』#5 21:00~   | [熟](http://www.laowang666.com.cn/ProDetail.aspx?ProId=1655)  |                      |
 | 2022.11.12 | 音乐   | 『Venue101』#19 MC 23:00~ 嘉宾:QUEENDOM『チキチキバンバン』 THE SUPER FRUIT『チグハグ』 wacci『恋だろ』|  [生](https://www.bilibili.com/video/BV1V24y127tX)      |    
+| 2022.11.13 | 电视剧   | 『PICU 小児集中治療室』吉沢亮×高杉真宙×生田絵梨花×菅野莉央 座談会Part①   |   [生](https://pan.baidu.com/s/1ByBvVLm3Wyl8xU-Bc1-7hQ?pwd=0122 )    | [油管](https://www.youtube.com/watch?v=B9WfzJ67aAQ) |
 | 2022.11.14 | 电视剧   | 富士电视台『PICU 小児集中治療室』#6 21:00~   |       |                      |
 | 2022.11.17 | 番组    | VS魂 19:00～    |                                     |               |
 | 2022.11.19 | 音乐   | 『Venue101』# MC 23:00~   |        |                      |
