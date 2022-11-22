@@ -13,18 +13,13 @@ slug: /
 
 | 🗓 日期     | 📌 分类 | 💛 详情                                                                                                                                                            |                            🔗 链接                             | 🔨 备注                                                                                                                                                       |
 | :--------- | :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022.11.1  | CM      | 『e.design 事故保险』「真心想创造的安心感和体验篇」 |    [CM](https://weibo.com/5177703789/McZxxxlAj)    | [油管](https://www.youtube.com/watch?v=eu8PGn0W26A) |
-| 2022.11.1  | 杂志   | 『ステージぴあ』11+12月号 |    [ebook](https://t.pia.jp/pia/events/stagepia)    |   |
-| 2022.11.4   | 新闻    | 和手表一起，感受到季节的一瞬的北海道二世古之旅    |   [熟](https://www.bilibili.com/video/BV1rG411F7sc/)   |   [链接](https://www.asahi.com/and/article/20221104/423232029/)            |
-| 2022.11.4   | 番组    | 熱狂！1/365のマニアさん 19:00～    |   [生](https://www.bilibili.com/video/BV1NG4y187k4)   |               |
-| 2022.11.5 | 音乐   | 『Venue101』#18 MC 23:00~ 嘉宾:日向坂46『月と星が踊るMidnight』 藤原さくら『まばたき』 緑黄色社会『ミチヲユケ』  | [蓝cut](https://www.bilibili.com/video/BV18e411F7ko)      |     [生](https://www.bilibili.com/video/BV15K411m7U6)   |
-| 2022.11.7 | 电视剧   | 富士电视台『PICU 小児集中治療室』#5 21:00~   | [熟](http://www.laowang666.com.cn/ProDetail.aspx?ProId=1655)  |                      |
-| 2022.11.12 | 音乐   | 『Venue101』#19 MC 23:00~ 嘉宾:QUEENDOM『チキチキバンバン』 THE SUPER FRUIT『チグハグ』 wacci『恋だろ』|  [生](https://www.bilibili.com/video/BV1V24y127tX)      |                      |
-| 2022.11.13 | 电视剧   | 『PICU 小児集中治療室』吉沢亮×高杉真宙×生田絵梨花×菅野莉央 座談会Part①   |   [生](https://pan.baidu.com/s/1ByBvVLm3Wyl8xU-Bc1-7hQ?pwd=0122 )    | [油管](https://www.youtube.com/watch?v=B9WfzJ67aAQ) |
 | 2022.11.14 | 电视剧   | 富士电视台『PICU 小児集中治療室』#6 21:00~   | [熟](http://www.laowang666.com.cn/ProDetail.aspx?ProId=1655)  |                      |
 | 2022.11.17 | 番组    | VS魂 19:00～    | [生](https://www.bilibili.com/video/BV1cG4y147Wg)   |               |
 | 2022.11.18 | 采访    | 生田絵梨花が感じる舞台の魅力「作品が育っていくような感覚」  | [生](https://ovo.kyodo.co.jp/interview/a-1818452)   |               |
-| 2022.11.19 | 音乐   | 『Venue101』#20 MC 23:00~   |        |                      |
+| 2022.11.19 | 杂志   | 『HighwayWalker』12月号 東日本版&北海道版 | [网盘](https://pan.baidu.com/s/1zjQ-8r1ChAy4wLenSpOiWQ?pwd=0122)       |                      |
+| 2022.11.19 | 电视剧   | 『PICU 小児集中治療室』吉沢亮×高杉真宙×生田絵梨花×菅野莉央 座談会Part②   |   [生](https://pan.baidu.com/s/1zjQ-8r1ChAy4wLenSpOiWQ?pwd=0122)    | [油管](https://www.youtube.com/watch?v=QCMZjH57y5o) |
+| 2022.11.19 | 音乐   | 『Venue101』#20 MC 23:00~ 嘉宾:≠ME『はにかみショート』 idom『GLOW』 TravisJapan『JUSTDANCE!』 ハマいく『ビートDEトーヒ』| [生](https://www.bilibili.com/video/BV1DG4y1R71o)       |                      |
+| 2022.11.20 | 音乐   | ハマいく『ビートDEトーヒ』配信 |[链接](https://hamaiku.lnk.to/beatdetohiTP)|[网盘](https://pan.baidu.com/s/1Nhq-j4z9DLmCqm71Jka-Lg?pwd=0122)|
 | 2022.11.21 | 电视剧   | 富士电视台『PICU 小児集中治療室』#7 21:00~   |       |                      |
 | 2022.11.22  | 杂志   | 『美的』1月号 |       |   |
 | 2022.11.22  | 杂志   | 『TV Station』2022 年 24 号 Girls Pop　ANTENNA |       |   |
@@ -33,8 +28,9 @@ slug: /
 | 2022.11.23 | 番组    | 1億人の大質問!?笑ってコラえて!3時間SP 吹奏楽の旅2022完結編 第1弾 19:00〜21:54   |                                     |               |
 | 2022.11.24 | 杂志   | 「スカパー!TVガイドBS＋CS」インタビュー  |        |                      |
 | 2022.11.24 | 杂志   | 「スカパー!TVガイドプレミアム」インタビュー |        |                      |
-| 2022.11.26 | 音乐   | 『Venue101』# MC 23:00~   |        |                      |
+| 2022.11.26 | 音乐   | 『Venue101』#21 MC 23:00~   |        |                      |
 | 2022.11.28 | 电视剧   | 富士电视台『PICU 小児集中治療室』#8 21:00~   |       |                      |
+| 2022.11.30 | 番组    | 『TOKIOカケル』23:00~23:40   |                                     |               |
 | 2022.12.1 | 电影   | 『映画かいけつゾロリ ラララ♪スターたんじょう』舞台挨拶付きTOHOシネマズ日本橋 18:15~   |                          |           |
 | 2022.12.3   | FC      | 『Erika Ikuta 2022 winter fun』Zepp Osaka Bayside（OSAKA）OPEN 13:00 / START 14:00   |    |    |
 | 2022.12.3 | 音乐   | 『Venue101』# MC 23:00~   |        |                      |
@@ -46,3 +42,4 @@ slug: /
 | 2022.12.11   | FC      | 『Erika Ikuta 2022 winter fun』KT Zepp Yokohama（YOKOHAMA）OPEN 18:00 / START 19:00  |    |    |
 | 2022.12.14 | 音乐   | 『2022FNS歌謡祭』 18:30〜23:03   |        |                      |
 | 2022.12.16 | 电影    | 『Dr.コトー診療所』劇場版上映   |    | [周刊 FLASH](https://weibo.com/5177703789/LyH23DhYx) [日刊 sports](https://weibo.com/5177703789/M7t650QM9) [评论翻译](https://weibo.com/5177703789/M7vYY0MzB) |
+
