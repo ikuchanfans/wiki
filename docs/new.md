@@ -21,7 +21,7 @@ slug: /
 | 2022.11.19 | 音乐   | 『Venue101』#20 MC 23:00~ 嘉宾:≠ME『はにかみショート』 idom『GLOW』 TravisJapan『JUSTDANCE!』 ハマいく『ビートDEトーヒ』| [生](https://www.bilibili.com/video/BV1DG4y1R71o)       |                      |
 | 2022.11.20 | 音乐   | ハマいく『ビートDEトーヒ』配信 |[链接](https://hamaiku.lnk.to/beatdetohiTP)|[网盘](https://pan.baidu.com/s/1Nhq-j4z9DLmCqm71Jka-Lg?pwd=0122)|
 | 2022.11.21 | 电视剧   | 富士电视台『PICU 小児集中治療室』#7 21:00~   |       |                      |
-| 2022.11.22  | 杂志   | 『美的』1月号 |       |   |
+| 2022.11.22  | 杂志   | 『美的』1月号 | [微博](https://weibo.com/5177703789/MgaWqrlNL)       |   |
 | 2022.11.22  | 杂志   | 『TV Station』2022 年 24 号 Girls Pop　ANTENNA |       |   |
 | 2022.11.22 | 电影   | 『映画かいけつゾロリ　ラララ♪スターたんじょう』完成披露上映会   |       |        |
 | 2022.11.22 | 番组    | 明日よる7時は…吹奏楽の旅2022完結編 第1弾 22:54～23:00   |                                     |               |
