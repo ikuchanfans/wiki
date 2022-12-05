@@ -501,6 +501,7 @@ sidebar_position: 3
 
 - 简介: 该剧改编自天树征丸、金成阳三郎担任原作，佐藤文也负责作画的同名漫画，讲述了天才高中生侦探金田一一与他的青梅竹马以及警视厅的警部一起解决各种案件的故事。『聖恋島殺人事件』中出演「アスタニッシュ出版」的记者, 调查圣恋岛的秘密
 - 本篇第 2 話 cut: https://www.bilibili.com/video/BV14r4y1t79V
+- 本篇第 3 話 cut: https://pan.baidu.com/s/1mgH5ExIGj2r11qj1rV1iLA?pwd=1luz 
 - 本篇全: http://www.mytvbt.net/viewthread.php?tid=106256
 
 ## 14.世にも奇妙な物語 2022 年 夏の特別編『メロディに乗せて』
