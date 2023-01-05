@@ -17,7 +17,9 @@ slug: /
 | 2023.1.1 | 番组   | 『ネタパレ元日SP』0:45~   |  [生](https://www.bilibili.com/video/BV1sM411y72A)      |                      |
 | 2023.1.2 | CM   |  第99回箱根駅伝　想いの継承篇   | [生](https://www.bilibili.com/video/BV1CG4y1m7yk)     | [油管](youtube.com/watch?v=a14TvGVwhDc)             |
 | 2023.1.2 | 番组   | 『せっかくグルメ 』新春4時間SP 17:00~   |  [生](https://www.bilibili.com/video/BV1Y24y1v7Tw/)      |                      |
+| 2023.1.5 | 电影   | 『五岛医生诊疗所』六分钟正片内容解禁   |  [熟](https://www.bilibili.com/video/BV1YP4y1e7jQ)      |                      |
 | 2023.1.7 | 音乐   | 『MUSIC FAIR』MEAN GIRLS 18:00~   |        |                      |
+| 2023.1.20 | 杂志   | 『VOCE』2023年3月号   |        |    [amazon](https://www.amazon.co.jp/gp/product/B0BQZ89G3D)                  |
 | 2023.1.28 | 音乐   | 『Venue101』#24 MC 23:00~   |        |                      |
 | 2023.1.30 | 音乐剧  | 『MEAN GIRLS』【東京】東京建物 Brillia HALL（豊島区立芸術文化劇場）(～ 2.12) |         | [详细日程](https://musical-meangirls.jp/schedule.html#tokyo) |
 | 2023.2.17 | 音乐剧  | 『MEAN GIRLS』【福岡】キャナルシティ劇場(～ 2.19)                       |         | [详细日程](https://musical-meangirls.jp/schedule.html#fukuoka)  |
