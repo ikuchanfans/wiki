@@ -16,8 +16,8 @@ slug: /
 | 2023.1.1 | 番组   | 『ネタパレ元日SP』0:45~   |  [生](https://www.bilibili.com/video/BV1sM411y72A)      |                      |
 | 2023.1.2 | CM   |  第99回箱根駅伝　想いの継承篇   | [生](https://www.bilibili.com/video/BV1CG4y1m7yk)     | [油管](youtube.com/watch?v=a14TvGVwhDc)             |
 | 2023.1.2 | 番组   | 『せっかくグルメ』新春4時間SP 17:00~   |  [生](https://www.bilibili.com/video/BV1Y24y1v7Tw/)      |                      |
-| 2023.1.5 | 电影   | 『五岛医生诊疗所』六分钟正片内容解禁   |  [生](https://pan.baidu.com/s/1otpRvwXSQeM8CFXhamAMKg?pwd=0122)      |                      |
-| 2023.1.6 | 番组   | 『ten.』18:00~   |       |                      |
+| 2023.1.5 | 电影   | 『五岛医生诊疗所』六分钟正片内容解禁   |  [熟](https://www.bilibili.com/video/BV1B3411S77f)      |                      |
+| 2023.1.6 | 番组   | 『ten.』18:00~   | [生](https://pan.baidu.com/s/1Qs4vSQtUQeLIDJamp9sahA?pwd=0122)      |                      |
 | 2023.1.7 | 音乐   | 『MUSIC FAIR』MEAN GIRLS 18:00~   |        |                      |
 | 2023.1.20 | 杂志   | 『VOCE』2023年3月号   |        |    [amazon](https://www.amazon.co.jp/gp/product/B0BQZ89G3D)                  |
 | 2023.1.28 | 音乐   | 『Venue101』#24 MC 23:00~   |        |                      |
