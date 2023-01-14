@@ -21,7 +21,7 @@ slug: /
 | 2023.1.7 | 音乐   | 『MUSIC FAIR』MEAN GIRLS 18:00~   |    [熟](https://www.bilibili.com/video/BV1Jv4y1q72B)      |                      |
 | 2023.1.8 | 番组   | 『プレミアの巣窟』MEAN GIRLS    |    [生](https://www.bilibili.com/video/BV1oG4y1w7DE?t=406.8)      |                      |
 | 2023.1.13 | 番组   | 読売テレビ『す・またん』5:10~   |       |                      |
-| 2023.1.13 | 番组   | 『ネタパレ』23:40~   |       |                      |
+| 2023.1.13 | 番组   | 『ネタパレ』23:40~   | [生](https://www.bilibili.com/video/BV1UM411b75b)      |                      |
 | 2023.1.14 | 番组   | 読売テレビ『キューン』2:04〜   |       |                      |
 | 2023.1.20 | 杂志   | 『VOCE』2023年3月号   |        |    [amazon](https://www.amazon.co.jp/gp/product/B0BQZ89G3D)                  |
 | 2023.1.28 | 音乐   | 『Venue101』#24 MC 23:00~   |        |                      |
