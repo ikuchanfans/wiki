@@ -28,6 +28,7 @@ slug: /
 | 2023.1.27 | CM     | Apuweiser-riche Spring vol.1 配信 |  [网盘](https://pan.baidu.com/s/1HsQQde7pyqBSFwE7dnuPcQ?pwd=zbhl) | [Apuweiser-riche 官网](https://ap-story.jp/cts/apuweiser-riche/230127_apu_catalog.html)           |
 | 2023.1.28 | 音乐   | 『Venue101』#24 MC 23:00~   |        |                      |
 | 2023.1.30 | 音乐剧  | 『MEAN GIRLS』【東京】東京建物 Brillia HALL（豊島区立芸術文化劇場）(～ 2.12) |         | [详细日程](https://musical-meangirls.jp/schedule.html#tokyo) |
+| 2023.2.10 | CM     | Apuweiser-riche Spring vol.2 配信 |  |          |
 | 2023.2.17 | 音乐剧  | 『MEAN GIRLS』【福岡】キャナルシティ劇場(～ 2.19)      |         | [详细日程](https://musical-meangirls.jp/schedule.html#fukuoka)  |
 | 2023.2.23 | 音乐剧  | 『MEAN GIRLS』【大阪】森ノ宮ピロティホール(～ 2.27)               |         |  [详细日程](https://musical-meangirls.jp/schedule.html#osaka)|
 | 2023.4.4 | 音乐剧  |『COCOON PRODUCTION 2023 シブヤデマタアイマショウ』Guest: 生田絵梨花 小池徹平 | |  [链接](https://www.bunkamura.co.jp/cocoon/lineup/23_shibuyade2023.html)|
