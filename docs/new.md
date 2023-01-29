@@ -27,6 +27,7 @@ slug: /
 | 2023.1.27 | 番组   | 『ツキいちanna』10:25～   |       |                      |
 | 2023.1.27 | CM     | Apuweiser-riche Spring vol.1 配信 |  [网盘](https://pan.baidu.com/s/1HsQQde7pyqBSFwE7dnuPcQ?pwd=zbhl) | [Apuweiser-riche 官网](https://ap-story.jp/cts/apuweiser-riche/230127_apu_catalog.html)           |
 | 2023.1.28 | 音乐   | 『Venue101』#24 MC 23:00~ 嘉宾: ALI『NEVER SAY GOODBYE feat. Mummy-D』 SennaRin『最果て』 鈴木みのり『ミュージカル』中山優馬『WEEKEND』 | [生](https://www.bilibili.com/video/BV1xy4y197D5/)       |                      |
+| 2023.1.29 | 新闻   | 「MEANGIRLS 」初日前会見   |     |                      |
 | 2023.1.30 | 音乐剧  | 『MEAN GIRLS』【東京】東京建物 Brillia HALL（豊島区立芸術文化劇場）(～ 2.12) |         | [详细日程](https://musical-meangirls.jp/schedule.html#tokyo) |
 | 2023.2.4 | 音乐   | 『Venue101』#24 MC 23:00~ 嘉宾: AileTheShota『Yumeiro』 SHISHAMO『恋する -10YEARS THANK YOU-』 LE_SSERAFIM『FEARLESS』|      |                    |
 | 2023.2.10 | CM     | Apuweiser-riche Spring vol.2 配信 |  |          |
