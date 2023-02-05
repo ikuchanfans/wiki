@@ -33,11 +33,12 @@ slug: /
 | 2023.1.30 | 新闻   | 『朝生ワイド　す・またん！』   | [生](https://pan.baidu.com/s/15wNeGPPpOaviDRYUr--rWQ?pwd=0122)    |                      |
 | 2023.1.30 | 音乐剧  | 『MEAN GIRLS』【東京】東京建物 Brillia HALL（豊島区立芸術文化劇場）(～ 2.12) |         | [详细日程](https://musical-meangirls.jp/schedule.html#tokyo) |
 | 2023.1.31 | 新闻   | 『闹钟tv』   | [生](https://pan.baidu.com/s/17zTeXSvBic2a_-5-YJBEpA?pwd=0122 )  |                      |
-| 2023.2.4 | 音乐   | 『Venue101』#24 MC 23:00~ 嘉宾: AileTheShota『Yumeiro』 SHISHAMO『恋する -10YEARS THANK YOU-』 LE_SSERAFIM『FEARLESS』|      |                    |
+| 2023.2.4 | 音乐   | 『Venue101』#24 MC 23:00~ 嘉宾: AileTheShota『Yumeiro』 SHISHAMO『恋する -10YEARS THANK YOU-』 LE_SSERAFIM『FEARLESS』| [生](https://www.bilibili.com/video/BV1EG4y1u7gj)     |                    |
 | 2023.2.5 | 番组   | 『プレミアの巣窟』MEANGIRLS公演映像   |       |                      |
 | 2023.2.9 | 杂志   | 『CM NOW』2023年3月号   |   |       |
 | 2023.2.10 | CM     | Apuweiser-riche Spring vol.2 配信 |  |          |
 | 2023.2.17 | 音乐剧  | 『MEAN GIRLS』【福岡】キャナルシティ劇場(～ 2.19)      |         | [详细日程](https://musical-meangirls.jp/schedule.html#fukuoka)  |
+| 2023.2.18 | 音乐   | 『Venue101』#25 MC 23:00~ 嘉宾: ＝LOVE『この空がトリガー』 櫻坂46『桜月』 ヤングスキニー『らしく』|   |                    |
 | 2023.2.20 | 杂志   | 『madame FIGARO japon』2023年4月号   |   |       |
 | 2023.2.23 | 音乐剧  | 『MEAN GIRLS』【大阪】森ノ宮ピロティホール(～ 2.27)               |         |  [详细日程](https://musical-meangirls.jp/schedule.html#osaka)|
 | 2023.4.4 | 音乐剧  |『COCOON PRODUCTION 2023 シブヤデマタアイマショウ』Guest: 生田絵梨花 小池徹平 | |  [链接](https://www.bunkamura.co.jp/cocoon/lineup/23_shibuyade2023.html)|
