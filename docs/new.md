@@ -38,6 +38,7 @@ slug: /
 | 2023.2.9 | 杂志   | 『CM NOW』2023年3月号   |   |       |
 | 2023.2.10 | CM     | Apuweiser-riche Spring vol.2 配信 |  |  [Apuweiser-riche 官网](https://ap-story.jp/cts/apuweiser-riche/230210_apu_catalog.html)           |
 | 2023.2.10 | 新闻    | 情報番組『キューン!!』Mean Girls    |  [生](https://pan.baidu.com/s/1nTgcEa04dmeNUirai4Nogg?pwd=0122)    |               |
+| 2023.2.15 | 广播   | FM802『TACTY IN THE MORNING』10:00～   |       |                      |
 | 2023.2.17 | 音乐剧  | 『MEAN GIRLS』【福岡】キャナルシティ劇場(～ 2.19)      |         | [详细日程](https://musical-meangirls.jp/schedule.html#fukuoka)  |
 | 2023.2.18 | 音乐   | 『Venue101』#25 MC 23:00~ 嘉宾: ＝LOVE『この空がトリガー』 櫻坂46『桜月』 ヤングスキニー『らしく』|   |                    |
 | 2023.2.20 | 杂志   | 『madame FIGARO japon』2023年4月号   |   |       |
