@@ -50,3 +50,4 @@ slug: /
 | 2023.5.4 | 音乐剧  | 『GYPSY』【大阪】森ノ宮ピロティホール(~5.7)            |       |  [详细日程](https://gypsy2023.com/osaka.html)  |
 | 2023.5.12 | 音乐剧  | 『GYPSY』【愛知】刈谷市総合文化センター アイリス 大ホール(~5.14)            |         |  [详细日程](https://gypsy2023.com/aichi.html)  |
 | 2023.5.19 | 音乐剧  | 『GYPSY』【福岡】キャナルシティ劇場(~5.21)            |         |  [详细日程](https://gypsy2023.com/fukuoka.html)  |
+
