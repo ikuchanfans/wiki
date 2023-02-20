@@ -42,7 +42,7 @@ slug: /
 | 2023.2.17 | 音乐剧  | 『MEAN GIRLS』【福岡】キャナルシティ劇場(～ 2.19)      |         | [详细日程](https://musical-meangirls.jp/schedule.html#fukuoka)  |
 | 2023.2.17 | 新闻    | 情報番組『キューン!!』Mean Girls    |  [生](https://pan.baidu.com/s/1GFp2kreBJA8liDMrtEUxJg?pwd=0122)    |               |
 | 2023.2.18 | 音乐   | 『Venue101』#25 MC 23:00~ 嘉宾: ＝LOVE『この空がトリガー』 櫻坂46『桜月』 ヤングスキニー『らしく』| [生](https://www.bilibili.com/video/BV1kx4y1c7vo/)  |       远程             |
-| 2023.2.20 | 杂志   | 『madame FIGARO japon』2023年4月号   |   |       |
+| 2023.2.20 | 杂志   | 『madame FIGARO japon』2023年4月号   | [微博](https://weibo.com/1571898222/MtN5i9bkw)  |       |
 | 2023.2.23 | 音乐剧  | 『MEAN GIRLS』【大阪】森ノ宮ピロティホール(～ 2.27)               |         |  [详细日程](https://musical-meangirls.jp/schedule.html#osaka)|
 | 2023.2.25 | 音乐   | 『Venue101』#26 MC 23:00~ 嘉宾: NCT127『Ay_Yo』 GENERATIONS『ワンダーラスト』 NOA『JustFeelIt feat. #AyumuImazu』|   |                    |
 | 2023.4.4 | 音乐剧  |『COCOON PRODUCTION 2023 シブヤデマタアイマショウ』Guest: 生田絵梨花 小池徹平 | |  [链接](https://www.bunkamura.co.jp/cocoon/lineup/23_shibuyade2023.html)|
