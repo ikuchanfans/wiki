@@ -50,6 +50,7 @@ slug: /
 | 2023.3.4 | 音乐   | 『Venue101』#27 MC 23:00~ 嘉宾: STU48『息をする心』 きゃない『バニラ』 NiziU『Paradise』| [生](https://www.bilibili.com/video/BV1HD4y1M7RC)  |   |
 | 2023.3.11 | 音乐   | 『Venue101』#28 MC 23:00~ 嘉宾: Kep1er『IdoDoyou』 SnowMan『タペストリー』 なにわ男子『SpecialKiss』|  |   |
 | 2023.3.15 | 广播   | NHKラジオ第1『大竹しのぶのスピーカーズコーナー』21:05~21:55   |     |                      |
+| 2023.4.3 | 杂志   | act guide『アクトガイド』 2023 Season 15   |   |       |
 | 2023.4.4 | 音乐剧  |『COCOON PRODUCTION 2023 シブヤデマタアイマショウ』Guest: 生田絵梨花 小池徹平 | |  [链接](https://www.bunkamura.co.jp/cocoon/lineup/23_shibuyade2023.html)|
 | 2023.4.9 | 音乐剧  | 『GYPSY』【東京】東京芸術劇場プレイハウス(~4.30)              |         |  [详细日程](https://gypsy2023.com/tokyo.html)|
 | 2023.5.4 | 音乐剧  | 『GYPSY』【大阪】森ノ宮ピロティホール(~5.7)            |       |  [详细日程](https://gypsy2023.com/osaka.html)  |
