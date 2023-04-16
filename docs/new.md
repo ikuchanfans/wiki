@@ -61,6 +61,8 @@ slug: /
 | 2023.4.9 | 音乐剧  | 『GYPSY』【東京】東京芸術劇場プレイハウス(~4.30)              |         |  [详细日程](https://gypsy2023.com/tokyo.html)|
 | 2023.4.12 | 杂志   | 「anan」No.2344   |   |       |
 | 2023.4.14 | CM     | Apuweiser-riche Summer vol.2 配信 |  |           |
+| 2023.4.15 | 音乐   | 『Venue101』#32 MC 23:00~ 嘉宾: DXTEEN『Brand New Day』 日向坂46『One choice』 MAZZEL『MISSION』| |   |
+| 2023.4.22 | 音乐  | 『Venue101』#33 MC 23:00~ 嘉宾: TOMORROWXTOGETHER『Devil by the window ～ Sugar Rush Ride』 BE:FIRST『Smile Again』 Liella!『Second Sparkle』| | |
 | 2023.4.26 | 音乐     | 「生田絵梨花 卒業コンサート」Blu-ray&DVD |  |           |
 | 2023.5.4 | 音乐剧  | 『GYPSY』【大阪】森ノ宮ピロティホール(~5.7)            |       |  [详细日程](https://gypsy2023.com/osaka.html)  |
 | 2023.5.12 | 音乐剧  | 『GYPSY』【愛知】刈谷市総合文化センター アイリス 大ホール(~5.14)            |         |  [详细日程](https://gypsy2023.com/aichi.html)  |
