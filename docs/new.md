@@ -71,5 +71,6 @@ slug: /
 | 2023.5.20 | 音乐  | 『Venue101』#34 MC 23:00~ 嘉宾: カメレオン・ライム・ウーピーパイ『Love You!!!!!!』藤原さくら『話そうよ』KingandPrince『ichiban』『シンデレラガール』『Beautiful Flower』| | 远程 |
 | 2023.5.27 | 音乐  | 『Venue101』#35 MC 23:00~ 嘉宾: INI『FANFARE』IVE『WAVE』NEE『生命謳歌』| |  |
 | 2023.6.10 | 音乐  | 『Venue101』#36 MC 23:00~ 嘉宾: iri『Season』MILK『topaz』MAZZEL『Vivid』| |  |
+| 2023.6.10 | 音乐  | 『Venue101』#37 MC 23:00~ 嘉宾: 由薫『星月夜』Mrs GREEN APPLE『Magic』King and Prince『なにもの』| |  |
 | 2023.7.12 | 电视剧  | 『こっち向いてよ向井くん』 第1集 22:00~   |              |    |
 | 2023.7.21 | 电影   | 映画『 #Drコトー診療所 』Blu-ray＆DVD発売決定| |   |
