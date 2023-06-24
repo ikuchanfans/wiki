@@ -72,6 +72,8 @@ slug: /
 | 2023.5.27 | 音乐  | 『Venue101』#35 MC 23:00~ 嘉宾: INI『FANFARE』IVE『WAVE』NEE『生命謳歌』| |  |
 | 2023.6.10 | 音乐  | 『Venue101』#36 MC 23:00~ 嘉宾: iri『Season』MILK『topaz』MAZZEL『Vivid』| |  |
 | 2023.6.10 | 音乐  | 『Venue101』#37 MC 23:00~ 嘉宾: 由薫『星月夜』Mrs GREEN APPLE『Magic』King and Prince『なにもの』| |  |
+| 2023.7.1 | 音乐  | 『Venue101』#38 MC 23:00~ 嘉宾: 櫻坂46『Start over!』Travis Japan『Candy Kiss』YONA YONA WEEKENDERS『シラフ』| |  |
 | 2023.7.6 | 番组  | 『ぐるナイ』 19:00~ 2時間SP  |              |    |
+| 2023.7.9 | 番组  | 『うわっ！ダマされた大賞インターナショナル』   |              |    |
 | 2023.7.12 | 电视剧  | 『こっち向いてよ向井くん』 第1集 22:00~   |              |    |
 | 2023.7.21 | 电影   | 映画『 #Drコトー診療所 』Blu-ray＆DVD発売決定| |   |
