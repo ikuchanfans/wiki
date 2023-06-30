@@ -84,3 +84,11 @@ slug: /
 | 2023.7.19 | 电视剧  | 『こっち向いてよ向井くん』 第2集 22:00~   |              |    |
 | 2023.7.21 | 电影   | 映画『 #Drコトー診療所 』Blu-ray＆DVD発売決定| |   |
 | 2023.7.26 | 电视剧  | 『こっち向いてよ向井くん』 第3集 22:00~   |              |    |
+| 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 14:00 / START 15:00    |              |    |
+| 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 18:00 / START 19:00    |              |    |
+| 2023.9.12 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Fukuoka OPEN 18:00 / START 19:00    |              |    |
+| 2023.9.13 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Fukuoka OPEN 18:00 / START 19:00    |              |    |
+| 2023.9.16 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Osaka Bayside OPEN 14:00 / START 15:00    |              |    |
+| 2023.9.16 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Osaka Bayside OPEN 18:00 / START 19:00    |              |    |
+| 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 14:00 / START 15:00    |              |    |
+| 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 18:00 / START 19:00    |              |    |
