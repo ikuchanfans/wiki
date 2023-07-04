@@ -73,10 +73,10 @@ slug: /
 | 2023.6.10 | 音乐  | 『Venue101』#36 MC 23:00~ 嘉宾: iri『Season』MILK『topaz』MAZZEL『Vivid』| |  |
 | 2023.6.17 | 音乐  | 『Venue101』#37 MC 23:00~ 嘉宾: 由薫『星月夜』Mrs GREEN APPLE『Magic』King and Prince『なにもの』| |  |
 | 2023.6.22 | 杂志   | 「VOCE」2023年8月号   | [微博](https://weibo.com/5177703789/N6qFF1JGF)  |       |
-| 2023.6.27 | 番组  | 『ヒルナンデス!』 11:55～13:55  |              |    |
-| 2023.6.30 | 新闻  | 『Oha!4 NEWS LIVE』 4:30~  |              |    |
+| 2023.6.27 | 番组  | 『ヒルナンデス!』 11:55～13:55  | [生](https://pan.baidu.com/s/1lINAydnOf0XRTAb_jnWNgA?pwd=0122)   |    |
+| 2023.6.30 | 新闻  | 『Oha!4 NEWS LIVE』 4:30~  |  [生](https://pan.baidu.com/s/1m3Y3lqH-HRGRFr0AyI55fQ?pwd=0122)  |    |
 | 2023.7.1 | 音乐  | 『Venue101』#38 MC 23:00~ 嘉宾: 櫻坂46『Start over!』Travis Japan『Candy Kiss』YONA YONA WEEKENDERS『シラフ』| [櫻坂46cut](https://www.bilibili.com/video/BV12z4y1n7rS/)|  |
-| 2023.7.4 | 番组  | 『ヒルナンデス!』 11:55～13:55  |              |    |
+| 2023.7.4 | 番组  | 『ヒルナンデス!』 11:55～13:55  |  [生](https://www.bilibili.com/video/BV1sj411U7BC/)  |    |
 | 2023.7.5 | 番组  | 『ぐるナイ』预告 22:54～23:00  |              |    |
 | 2023.7.6 | 番组  | 『ぐるナイ』 19:00~ 2時間SP  |              |    |
 | 2023.7.8 | 番组  | 『世界一受けたい授業』19:56～20:54   |              |    |
