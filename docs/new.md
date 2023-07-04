@@ -57,21 +57,21 @@ slug: /
 | 2023.4.5 | 番组   | 「アカデミーナイトG」（TBS）2:02～2:42   | [生](https://pan.baidu.com/s/1nKspaYfwWyFA2OHmolboCw?pwd=0122)  |       |
 | 2023.4.7 | 杂志   | 「大人のおしゃれ手帖」2023年5月号 大竹しのぶ 生田絵梨花 対談インタビュー   | [微博](https://weibo.com/5177703789/MB1sBDafk)  |       |
 | 2023.4.7 | 番组   | 「あさイチ」プレミアムトーク(NHK) vtr 8:15～9:55   | [生](https://pan.baidu.com/s/1wEHVLZV0G_KmW7eYjlgEkA?pwd=0122)  |       |
-| 2023.4.8 | 音乐   | 『Venue101』#30 MC 23:00~ 嘉宾: 梅田サイファー『かまへん』 JO1『Tiger』 シンガーズハイ『ノールス』| |   |
+| 2023.4.8 | 音乐   | 『Venue101』#30 MC 23:00~ 嘉宾: 梅田サイファー『かまへん』 JO1『Tiger』 シンガーズハイ『ノールス』| [生](https://pan.baidu.com/s/1gATjHHuGkWuwN0V0h5lPog?pwd=0122) |   |
 | 2023.4.9 | 音乐剧  | 『GYPSY』【東京】東京芸術劇場プレイハウス(~4.30)              |         |  [详细日程](https://gypsy2023.com/tokyo.html)|
 | 2023.4.12 | 杂志   | 「anan」No.2344   |   |       |
 | 2023.4.14 | CM     | Apuweiser-riche Summer vol.2 配信 |  |           |
-| 2023.4.15 | 音乐   | 『Venue101』#31 MC 23:00~ 嘉宾: DXTEEN『Brand New Day』 日向坂46『One choice』 MAZZEL『MISSION』| |   |
-| 2023.4.22 | 音乐  | 『Venue101』#32 MC 23:00~ 嘉宾: TOMORROWXTOGETHER『Devil by the window ～ Sugar Rush Ride』 BE:FIRST『Smile Again』 Liella!『Second Sparkle』| | |
+| 2023.4.15 | 音乐   | 『Venue101』#31 MC 23:00~ 嘉宾: DXTEEN『Brand New Day』 日向坂46『One choice』 MAZZEL『MISSION』| [生](https://pan.baidu.com/s/1b2DEBq4wS4DS36I7mpfolw?pwd=0122) |   |
+| 2023.4.22 | 音乐  | 『Venue101』#32 MC 23:00~ 嘉宾: TOMORROWXTOGETHER『Devil by the window ～ Sugar Rush Ride』 BE:FIRST『Smile Again』 Liella!『Second Sparkle』| [生](https://pan.baidu.com/s/1ujpzh0eip3uVKqkqi7_TFw?pwd=0122)| |
 | 2023.4.26 | 音乐     | 「生田絵梨花 卒業コンサート」Blu-ray&DVD |  |           |
 | 2023.5.4 | 音乐剧  | 『GYPSY』【大阪】森ノ宮ピロティホール(~5.7)            |       |  [详细日程](https://gypsy2023.com/osaka.html)  |
 | 2023.5.12 | 音乐剧  | 『GYPSY』【愛知】刈谷市総合文化センター アイリス 大ホール(~5.14)            |         |  [详细日程](https://gypsy2023.com/aichi.html)  |
-| 2023.5.13 | 音乐  | 『Venue101』#33 MC 23:00~ 嘉宾: SnowMan『あいことば』ちゃんみな『ImNotOK』緑黄色社会『うそつき』| |  |
+| 2023.5.13 | 音乐  | 『Venue101』#33 MC 23:00~ 嘉宾: SnowMan『あいことば』ちゃんみな『ImNotOK』緑黄色社会『うそつき』| [生](https://pan.baidu.com/s/18oD7qVG4nsp0oXHcE74YpA?pwd=0122)|  |
 | 2023.5.19 | 音乐剧  | 『GYPSY』【福岡】キャナルシティ劇場(~5.21)            |         |  [详细日程](https://gypsy2023.com/fukuoka.html)  |
-| 2023.5.20 | 音乐  | 『Venue101』#34 MC 23:00~ 嘉宾: カメレオン・ライム・ウーピーパイ『Love You!!!!!!』藤原さくら『話そうよ』KingandPrince『ichiban』『シンデレラガール』『Beautiful Flower』| | 远程 |
-| 2023.5.27 | 音乐  | 『Venue101』#35 MC 23:00~ 嘉宾: INI『FANFARE』IVE『WAVE』NEE『生命謳歌』| |  |
-| 2023.6.10 | 音乐  | 『Venue101』#36 MC 23:00~ 嘉宾: iri『Season』MILK『topaz』MAZZEL『Vivid』| |  |
-| 2023.6.17 | 音乐  | 『Venue101』#37 MC 23:00~ 嘉宾: 由薫『星月夜』Mrs GREEN APPLE『Magic』King and Prince『なにもの』| |  |
+| 2023.5.20 | 音乐  | 『Venue101』#34 MC 23:00~ 嘉宾: カメレオン・ライム・ウーピーパイ『Love You!!!!!!』藤原さくら『話そうよ』KingandPrince『ichiban』『シンデレラガール』『Beautiful Flower』|[生](https://pan.baidu.com/s/1rOtGML536Rl4BNz2j3Pm_w?pwd=0122) | 远程 |
+| 2023.5.27 | 音乐  | 『Venue101』#35 MC 23:00~ 嘉宾: INI『FANFARE』IVE『WAVE』NEE『生命謳歌』| [生](https://pan.baidu.com/s/1AIUEFE33wYkVi2KwY3AoOg?pwd=0122) |  |
+| 2023.6.10 | 音乐  | 『Venue101』#36 MC 23:00~ 嘉宾: iri『Season』MILK『topaz』MAZZEL『Vivid』|[生](https://pan.baidu.com/s/1gEHuXap53Jx7Md8_bIHOLg?pwd=0122) |  |
+| 2023.6.17 | 音乐  | 『Venue101』#37 MC 23:00~ 嘉宾: 由薫『星月夜』Mrs GREEN APPLE『Magic』King and Prince『なにもの』| [生](https://pan.baidu.com/s/1BsFT2QRtjnHQ6sng42NeIw?pwd=0122)|  |
 | 2023.6.22 | 杂志   | 「VOCE」2023年8月号   | [微博](https://weibo.com/5177703789/N6qFF1JGF)  |       |
 | 2023.6.27 | 番组  | 『ヒルナンデス!』 11:55～13:55  | [生](https://pan.baidu.com/s/1lINAydnOf0XRTAb_jnWNgA?pwd=0122)   |    |
 | 2023.6.30 | 新闻  | 『Oha!4 NEWS LIVE』 4:30~  |  [生](https://pan.baidu.com/s/1m3Y3lqH-HRGRFr0AyI55fQ?pwd=0122)  |    |
