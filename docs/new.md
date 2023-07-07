@@ -78,6 +78,7 @@ slug: /
 | 2023.7.1 | 音乐  | 『Venue101』#38 MC 23:00~ 嘉宾: 櫻坂46『Start over!』Travis Japan『Candy Kiss』YONA YONA WEEKENDERS『シラフ』| [櫻坂46cut](https://www.bilibili.com/video/BV12z4y1n7rS/)|  |
 | 2023.7.4 | 番组  | 『ヒルナンデス!』 11:55～13:55  |  [生](https://www.bilibili.com/video/BV1sj411U7BC/)  |    |
 | 2023.7.5 | 番组  | 『ぐるナイ』预告 22:54～23:00  |              |    |
+| 2023.7.6 | 新闻  | 『DAY DAY』9:00~  |              |    |
 | 2023.7.6 | 番组  | 『ぐるナイ』 19:00~ 2時間SP  |              |    |
 | 2023.7.8 | 番组  | 『世界一受けたい授業』19:56～20:54   |              |    |
 | 2023.7.8 | 音乐  | 『Venue101』#39 MC 23:00~ 嘉宾: SUPER BEAVER『儚くない』THE BOYZ『Delicious』なにわ男子『Poppin' Hoppin' Lovin'』| |  |
