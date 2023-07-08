@@ -79,8 +79,9 @@ slug: /
 | 2023.7.4 | 番组  | 『ヒルナンデス!』 11:55～13:55  |  [生](https://www.bilibili.com/video/BV1sj411U7BC/)  |    |
 | 2023.7.5 | 新闻  | 『ZIP』 |              |    |
 | 2023.7.5 | 番组  | 『ぐるナイ』预告 22:54～23:00  |              |    |
-| 2023.7.6 | 新闻  | 『DAY DAY』9:00~  |              |    |
-| 2023.7.6 | 番组  | 『ぐるナイ』 19:00~ 2時間SP  |              |    |
+| 2023.7.6 | 新闻  | 『DAY DAY』9:00~  | [生](https://pan.baidu.com/s/1KQx2jyObklQHR1xYUZyXGA?pwd=0122)    |    |
+| 2023.7.6 | 番组  | 『ぐるナイ』 19:00~ 2時間SP  |    [生](https://www.bilibili.com/video/BV1gj411U78Y/)     |    |
+| 2023.7.8 | 电视剧  | 新水曜ドラマ「こっち向いてよ向井くん」スタート直前スペシャル   |  [生](https://pan.baidu.com/s/1HiPpq2HhSbHTKSMh1sJdpg?pwd=0122)           |    |
 | 2023.7.8 | 番组  | 『世界一受けたい授業』19:56～20:54   |              |    |
 | 2023.7.8 | 音乐  | 『Venue101』#39 MC 23:00~ 嘉宾: SUPER BEAVER『儚くない』THE BOYZ『Delicious』なにわ男子『Poppin' Hoppin' Lovin'』| |  |
 | 2023.7.9 | 番组  | 『ニノさん』日本テレビ 10:25〜11:25   |              |    |
