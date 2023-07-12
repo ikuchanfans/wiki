@@ -75,6 +75,7 @@ slug: /
 | 2023.6.22 | 杂志   | 「VOCE」2023年8月号   | [微博](https://weibo.com/5177703789/N6qFF1JGF)  |       |
 | 2023.6.27 | 番组  | 『ヒルナンデス!』 11:55～13:55  | [生](https://pan.baidu.com/s/1lINAydnOf0XRTAb_jnWNgA?pwd=0122)   |    |
 | 2023.6.30 | 新闻  | 『Oha!4 NEWS LIVE』 4:30~  |  [生](https://pan.baidu.com/s/1m3Y3lqH-HRGRFr0AyI55fQ?pwd=0122)  |    |
+| 2023.6.30 | 电视剧  | 『こっち向いてよ向井くん』制作发表会 |   [生](https://www.youtube.com/watch?v=BbddbCee5uw)   |    |
 | 2023.7.1 | 音乐  | 『Venue101』#38 MC 23:00~ 嘉宾: 櫻坂46『Start over!』Travis Japan『Candy Kiss』YONA YONA WEEKENDERS『シラフ』| [櫻坂46cut](https://www.bilibili.com/video/BV12z4y1n7rS/)|  |
 | 2023.7.4 | 番组  | 『ヒルナンデス!』 11:55～13:55  |  [生](https://www.bilibili.com/video/BV1sj411U7BC/)  |    |
 | 2023.7.5 | 新闻  | 『ZIP』 |              |    |
