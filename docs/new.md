@@ -95,9 +95,11 @@ slug: /
 | 2023.7.19 | 电视剧  | 『こっち向いてよ向井くん』 第2集 22:00~   |              |    |
 | 2023.7.21 | 杂志   | 「日経マネー」9月号  | |   |
 | 2023.7.21 | 电影   | 映画『 #Drコトー診療所 』Blu-ray＆DVD発売決定| |   |
+| 2023.7.22 | 杂志   | 「VOCE」9月号  | |   |
 | 2023.7.22 | 音乐  | 『Venue101×27時間テレビ』 MC 22:55～ 嘉宾: imase『NEWSNagisamile』JO1『NEWSmile』NiziU『COCONUT』日向坂46『Am I ready?』| |  |
 | 2023.7.26 | 电影   | 『映画かいけつゾロリ ラララ♪スターたんじょう』DVD発売| |   |
 | 2023.7.26 | 电视剧  | 『こっち向いてよ向井くん』 第3集 22:00~   |              |    |
+| 2023.8.5 | 番组  | NHK総合「第13回 明石家紅白！」19:30～20:48 |              |    |
 | 2023.8.12 | 音乐  | 『ライブエール2023』 ハマいく『ビートDEトーヒ』19:30～| |  |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 18:00 / START 19:00    |              |    |
@@ -107,3 +109,4 @@ slug: /
 | 2023.9.16 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Osaka Bayside OPEN 18:00 / START 19:00    |              |    |
 | 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 18:00 / START 19:00    |              |    |
+| 2023.11.8 | 电影   | 松尾スズキと30分の女優 DVD-BOX発売決定  | |   |
