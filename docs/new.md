@@ -99,7 +99,9 @@ slug: /
 | 2023.7.22 | 音乐  | 『Venue101×27時間テレビ』 MC 22:55～ 嘉宾: imase『NEWSNagisamile』JO1『NEWSmile』NiziU『COCONUT』日向坂46『Am I ready?』| |  |
 | 2023.7.26 | 电影   | 『映画かいけつゾロリ ラララ♪スターたんじょう』DVD発売| |   |
 | 2023.7.26 | 电视剧  | 『こっち向いてよ向井くん』 第3集 22:00~   |              |    |
+| 2023.8.2 | 电视剧  | 『こっち向いてよ向井くん』 第4集 22:00~   |              |    |
 | 2023.8.5 | 番组  | NHK総合「第13回 明石家紅白！」19:30～20:48 |              |    |
+| 2023.8.9 | 电视剧  | 『こっち向いてよ向井くん』 第5集 22:00~   |              |    |
 | 2023.8.12 | 音乐  | 『ライブエール2023』 ハマいく『ビートDEトーヒ』19:30～| |  |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 18:00 / START 19:00    |              |    |
