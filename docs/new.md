@@ -103,6 +103,7 @@ slug: /
 | 2023.8.5 | 番组  | NHK総合「第13回 明石家紅白！」19:30～20:48 |              |    |
 | 2023.8.9 | 电视剧  | 『こっち向いてよ向井くん』 第5集 22:00~   |              |    |
 | 2023.8.12 | 音乐  | 『ライブエール2023』 ハマいく『ビートDEトーヒ』19:30～| |  |
+| 2023.8.12 | 番组  | 「千鳥かまいたちアワー」23:30～23:55 |              |    |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 18:00 / START 19:00    |              |    |
 | 2023.9.12 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Fukuoka OPEN 18:00 / START 19:00    |              |    |
