@@ -115,4 +115,5 @@ slug: /
 | 2023.9.16 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Osaka Bayside OPEN 18:00 / START 19:00    |              |    |
 | 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 18:00 / START 19:00    |              |    |
+| 2023.10.5 | FC  | Erika Ikuta Autumn Live Tour 2023 東京国際フォーラム OPEN 17:30 / START 18:30    |              |    |
 | 2023.11.8 | 电影   | 松尾スズキと30分の女優 DVD-BOX発売決定  | |   |
