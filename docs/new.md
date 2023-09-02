@@ -110,7 +110,7 @@ slug: /
 | 2023.8.23 | 电视剧  | 『こっち向いてよ向井くん』 第7集 22:00~   |              |    |
 | 2023.8.27 | 电影   | 『映画かいけつゾロリ ラララ♪スターたんじょう』地上波初放送 15:45～NHK Eテレ | |   |
 | 2023.8.30 | 电视剧  | 『こっち向いてよ向井くん』 第8集 22:00~   |              |    |
-| 2023.9.2 | 音乐  | 『Venue101』 MC 23:00～ 嘉宾: 『』『』『』『』| |  |
+| 2023.9.2 | 音乐  | 『Venue101』 MC 23:00～ 嘉宾: 僕が見たかった青空『青空について考える』Mori Calliope『six_feet_under』MAZZEL『LIGHTNING』| |  |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 14:00 / START 15:00    |              |    |
 | 2023.9.10 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Haneda(Tokyo) OPEN 18:00 / START 19:00    |              |    |
 | 2023.9.12 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Fukuoka OPEN 18:00 / START 19:00    |              |    |
