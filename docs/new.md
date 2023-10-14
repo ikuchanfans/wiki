@@ -124,8 +124,10 @@ slug: /
 | 2023.9.17 | FC  | Erika Ikuta Autumn Live Tour 2023 Zepp Nagoya OPEN 18:00 / START 19:00    |              |    |
 | 2023.10.5 | FC  | Erika Ikuta Autumn Live Tour 2023 東京国際フォーラム OPEN 17:30 / START 18:30    |              |    |
 | 2023.10.7 | 音乐  | 『Venue101』#42 MC 23:00～ 嘉宾: BiTE A SHOCK『Patient!!』BOY NEXT DOOR『But Sometimes』緑黄色社会『サマータイムシンデレラ』| |  |
+| 2023.10.13 | 新闻   | 「す・またん！＆ZIP！」ディズニー100周年記念映画「ウィッシュ」日本版声優に決定 |  |           |
 | 2023.10.13 | CM     | Apuweiser-riche Winter vol.1 配信 |  |           |
 | 2023.10.14 | 音乐  | 『Venue101』#43 MC 23:00～ 嘉宾: INI『HANA_花』ITZY『RINGO』WANIMA『夏暁』| |  |
 | 2023.10.19 | 番组  | 「LIFE！秋」22:00~| |  |
 | 2023.11.3 | CM     | Apuweiser-riche Winter vol.2 配信 |  |           |
 | 2023.11.8 | 电影   | 松尾スズキと30分の女優 DVD-BOX発売決定  | |   |
+| 2023.12.15 | 电影   | 迪士尼100周年纪念作品「星愿」上映  | |   |
