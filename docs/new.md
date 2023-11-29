@@ -162,6 +162,7 @@ slug: /
 | 2023.11.25 | 音乐  | 『Venue101』#47 MC 23:00～ 嘉宾: 生田絵梨花『ウィッシュ ～この願い～』Kep1er『Grand Prix』SUPER BEAVER『決心』| |  |
 | 2023.11.28 | 新闻   | 「闹钟tv」 |  |           |
 | 2023.11.28 | 电影   | 『ウィッシュ』公開記念特别谈话活动 18:00  | | [链接](https://mitsui-shopping-park.com/lalaport/fukuoka/event/2617368.html)  |
+| 2023.11.29 | CM   | 『アデカフェ　～Delicious & Sustainable～』  | | [特設サイトURL](https://www.adeka.co.jp/food/deliplants/index.html)  |
 | 2023.11.30 | 电影   | 『ウィッシュ』 完成披露上映会 開場 10:40〜 / 開演 11:00〜 | |   |
 | 2023.12.2 | 音乐  | 『Best Artist 2023』 19:00～22:54 | |  |
 | 2023.12.2 | 音乐  | 『Venue101』#48 MC 23:00～ 嘉宾: アイナ•ジエンド『アイコトバ』CRAVITY『Dilly Dally』乃木坂46『Monopoly』| |  |
