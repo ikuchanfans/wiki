@@ -22,7 +22,7 @@ slug: /
 | 2024.1.13 | 音乐  | 『music fair』生田絵梨花『ウィッシュ～この願い～』with 薬師丸ひろ子『夢で逢えたら』18:00~18:30| |  |
 | 2024.1.22 | 新闻  | 『闹钟tv』5:23~ 6:48~| |  |
 | 2024.1.22 | 新闻  | 『Oha!4 NEWS』5:26~| |  |
-| 2024.1.22 | 新闻  | 『nonstop!4』9:26~| |  |
+| 2024.1.22 | 新闻  | 『nonstop!4』9:52~| |  |
 | 2024.1.22 | SOLO  | 1st EP『capriccioso』リリース決定🎹✨<br>[特設サイト公式](https://erikaikuta.jp/s/m12/page/1st_ep_release?ima=0539) OPEN<br>[生田絵梨花Official YouTube Channel](https://www.youtube.com/@ikutaerikaofficial) OPEN| |  |
 | 2024.1.27 | 音乐  | 『Venue101』# MC 22:55～ 嘉宾:櫻坂46『』JO1 『』RIIZE 『』 | |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
