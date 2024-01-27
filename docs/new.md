@@ -26,8 +26,8 @@ slug: /
 | 2024.1.22 | SOLO  | 1st EP『capriccioso』リリース決定🎹✨<br>[特設サイト公式](https://erikaikuta.jp/s/m12/page/1st_ep_release?ima=0539) OPEN<br>[生田絵梨花Official YouTube Channel](https://www.youtube.com/@ikutaerikaofficial) OPEN| |  |
 | 2024.1.26 | 新闻  | 『闹钟tv』| |  |
 | 2024.1.26 | 新闻  | 『THE TIME’』| |  |
-| 2024.1.27 | 音乐  | 『Venue101』# MC 22:55～ 嘉宾:櫻坂46『隙間風よ』JO1『Your Key』RIIZE『Love 119』 | |  |
-| 2024.2.3 | 音乐  | 『Venue101』# MC 23:00～ 嘉宾:『』『』『』 | |  |
+| 2024.1.27 | 音乐  | 『Venue101』紅白振り返りSP MC 22:55～ 嘉宾:櫻坂46『隙間風よ』JO1『Your Key』RIIZE『Love 119』 | |  |
+| 2024.2.3 | 音乐  | 『Venue101』# MC 23:00～ 嘉宾:キタニタツヤ『私が明日死ぬなら』M!LK『Kiss Plan』milet『Anytime Anywhere』 | |  |
 | 2024.2.10 | 音乐  | 『Venue101』# MC 23:00～ 嘉宾:『』『』『』 | |  |
 | 2024.2.17 | 音乐  | 『Venue101』# MC 23:00～ 嘉宾:『』『』『』 | |  |
 | 2024.2.24 | 音乐  | 『Venue101』# MC 23:00～ 嘉宾:『』『』『』 | |  |
