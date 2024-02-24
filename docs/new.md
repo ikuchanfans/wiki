@@ -33,7 +33,7 @@ slug: /
 | 2024.2.24 | 音乐  | 『Venue101』#52 MC 23:00～ 嘉宾:NCT WISH『WISH』Kroi『Sesame』TREASURE『BOMB』 | |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第1部】集合時間：14:30 / 開始時間：15:00 | |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第2部】集合時間：16:30 / 開始時間：17:00 | |  |
-| 2024.3.2 | 音乐  | 『Venue101』#53 MC 23:00～ 嘉宾:『』『』『』 | |  |
+| 2024.3.2 | 音乐  | 『Venue101』#53 MC 23:00～ 嘉宾:ATEEZ『NOT OKAY』THE RAMPAGE『100degrees』TWS『plot twist』Number_i『GOAT』 | |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:『』『』『』 | |  |
 | 2024.4.10 | SOLO  | 1st EP『capriccioso』発売| |  |
