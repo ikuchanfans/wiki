@@ -36,6 +36,7 @@ slug: /
 | 2024.3.2 | 音乐  | 『Venue101』#53 MC 22:55～ 嘉宾:ATEEZ『NOT OKAY』THE RAMPAGE『100degrees』TWS『plot twist』Number_i『GOAT』 | |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:『』『』『』 | |  |
+| 2024.3.19 | 杂志  | 『リンネル』2024年5月号 | |  |
 | 2024.4.10 | SOLO  | 1st EP『capriccioso』発売| |  |
 | 2024.4.21 | 音乐  | 『フレンズ・オブ・ディズニー・コンサート』Friends of Disney Concert 昼公演：13:00開場／14:00開演 | |  |
 | 2024.4.21 | 音乐  | 『フレンズ・オブ・ディズニー・コンサート』Friends of Disney Concert 夜公演：17:00開場／18:00開演 | |  |
