@@ -31,10 +31,14 @@ slug: /
 | 2024.2.10 | 音乐  | 『Venue101』#50 MC 23:00～ 嘉宾:アイナ・ジ・エンド『宝者』Creepy Nuts『二度寝』ねぐせ。『日常革命』 | |  |
 | 2024.2.17 | 音乐  | 『Venue101』#51 MC 23:00～ 嘉宾:INI『LEGIT』櫻坂46『何歳の頃に戻りたいのか？』水曜日のカンパネラ『幽霊と作家』 | |  |
 | 2024.2.24 | 音乐  | 『Venue101』#52 MC 23:00～ 嘉宾:NCT WISH『WISH』Kroi『Sesame』TREASURE『BOMB』 | |  |
+| 2024.2.28 | CM  | 朝日啤酒『アサヒ食彩』 | [链接](https://www.asahibeer.co.jp/shokusai/)|  |
+| 2024.2.28 | SOLO  | [TikTok](https://www.tiktok.com/@ikutaerikaofficial)アカウント開設！ | |  |
+| 2024.2.29 | 新闻  | 『THE TIME’』| |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第1部】集合時間：14:30 / 開始時間：15:00 | |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第2部】集合時間：16:30 / 開始時間：17:00 | |  |
 | 2024.3.2 | 音乐  | 『Venue101』#53 MC 22:55～ 嘉宾:ATEEZ『NOT OKAY』THE RAMPAGE『100degrees』TWS『plot twist』Number_i『GOAT』 | |  |
 | 2024.3.5 | 音乐  | 『うたコン』19:30~ 『花』 | |  |
+| 2024.3.6 | SOLO  | 『Laundry』の音源先行配信＆MV公開 | |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:『』『』『』 | |  |
 | 2024.3.19 | 杂志  | 『リンネル』2024年5月号 | |  |
