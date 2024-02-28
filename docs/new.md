@@ -36,6 +36,7 @@ slug: /
 | 2024.2.29 | 新闻  | 『闹钟tv』| |  |
 | 2024.2.29 | 新闻  | 『THE TIME’』| |  |
 | 2024.2.29 | 新闻  | 『ドデスカ』| |  |
+| 2024.2.29 | 新闻  | 『nonstop!』| |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第1部】集合時間：14:30 / 開始時間：15:00 | |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第2部】集合時間：16:30 / 開始時間：17:00 | |  |
 | 2024.3.2 | 音乐  | 『Venue101』#53 MC 22:55～ 嘉宾:ATEEZ『NOT OKAY』THE RAMPAGE『100degrees』TWS『plot twist』Number_i『GOAT』 | |  |
