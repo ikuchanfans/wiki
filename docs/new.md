@@ -33,6 +33,7 @@ slug: /
 | 2024.2.24 | 音乐  | 『Venue101』#52 MC 23:00～ 嘉宾:NCT WISH『WISH』Kroi『Sesame』TREASURE『BOMB』 | |  |
 | 2024.2.28 | CM  | 朝日啤酒『アサヒ食彩』 | [链接](https://www.asahibeer.co.jp/shokusai/)|  |
 | 2024.2.28 | SOLO  | [TikTok](https://www.tiktok.com/@ikutaerikaofficial)アカウント開設！ | |  |
+| 2024.2.29 | 新闻  | 『闹钟tv』| |  |
 | 2024.2.29 | 新闻  | 『THE TIME’』| |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第1部】集合時間：14:30 / 開始時間：15:00 | |  |
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第2部】集合時間：16:30 / 開始時間：17:00 | |  |
