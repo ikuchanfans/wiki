@@ -41,6 +41,7 @@ slug: /
 | 2024.3.2 | SOLO  | 1st EP『capriccioso』发售纪念特别谈话活动 【第2部】集合時間：16:30 / 開始時間：17:00 | |  |
 | 2024.3.2 | 音乐  | 『Venue101』#53 MC 22:55～ 嘉宾:ATEEZ『NOT OKAY』THE RAMPAGE『100degrees』TWS『plot twist』Number_i『GOAT』 | |  |
 | 2024.3.5 | 音乐  | 『うたコン』19:30~ 『花』 | |  |
+| 2024.3.5 | 直播  | ins Live 22:00~ | |  |
 | 2024.3.6 | SOLO  | 『Laundry』の音源先行配信＆MV公開 | |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:ウマ娘『U.M.A. NEW WORLD!!』SUPER BEAVER『幸せのために生きているだけさ』ZEROBASEONE『ゆらゆら-運命の花-』NiziU『SWEET NONFICTION』 | |  |
