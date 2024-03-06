@@ -22,7 +22,7 @@ slug: /
 | 2024.1.13 | 音乐  | 『music fair』生田絵梨花『ウィッシュ～この願い～』with 薬師丸ひろ子『夢で逢えたら』18:00~18:30| |  |
 | 2024.1.22 | 新闻  | 『闹钟tv』5:23~ 6:48~| |  |
 | 2024.1.22 | 新闻  | 『Oha!4 NEWS』5:26~| |  |
-| 2024.1.22 | 新闻  | 『nonstop!4』9:52~| |  |
+| 2024.1.22 | 新闻  | 『nonstop!』9:52~| |  |
 | 2024.1.22 | SOLO  | 1st EP『capriccioso』リリース決定🎹✨[生田絵梨花Official YouTube Channel](https://www.youtube.com/@ikutaerikaofficial) OPEN| [特設サイト公式](https://erikaikuta.jp/s/m12/page/1st_ep_release?ima=0539) |  |
 | 2024.1.26 | 新闻  | 『闹钟tv』| |  |
 | 2024.1.26 | 新闻  | 『THE TIME’』| |  |
@@ -44,6 +44,7 @@ slug: /
 | 2024.3.5 | 直播  | ins Live 22:00~ | |  |
 | 2024.3.6 | SOLO  | 『Laundry』の音源先行配信＆MV公開 | |  |
 | 2024.3.6 | 新闻  | 『闹钟tv』| |  |
+| 2024.3.6 | 新闻  | 『nonstop!』9:52~| |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:ウマ娘『U.M.A. NEW WORLD!!』SUPER BEAVER『幸せのために生きているだけさ』ZEROBASEONE『ゆらゆら-運命の花-』NiziU『SWEET NONFICTION』 | |  |
 | 2024.3.19 | 杂志  | 『リンネル』2024年5月号 | |  |
