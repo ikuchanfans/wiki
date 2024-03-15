@@ -47,7 +47,7 @@ slug: /
 | 2024.3.6 | 新闻  | 『nonstop!』9:52~| |  |
 | 2024.3.8 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』 大阪・フェスティバルホール | |  |
 | 2024.3.11 | 电视剧 |『PICU 小児集中治療室』完成披露試写会 11:45~ | | [来源](https://shishakai.blogspot.com/2024/03/picu-2024.html) |  
-| 2024.3.14 | CM  | ABC MART | |  |
+| 2024.3.14 | CM  | ABC MART PUMA | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:ウマ娘『U.M.A. NEW WORLD!!』SUPER BEAVER『幸せのために生きているだけさ』ZEROBASEONE『ゆらゆら-運命の花-』NiziU『SWEET NONFICTION』 | |  |
 | 2024.3.19 | 杂志  | 『リンネル』2024年5月号 | |  |
 | 2024.3.22 | 杂志  | 『VOCE』2024年5月号 | |  |
