@@ -1,4 +1,4 @@
-![image](https://github.com/ikuchanfans/wiki/assets/100224441/2b553764-a0f8-499b-bcb3-e56f5b811128)---
+---
 sidebar_position: 1
 slug: /
 ---
