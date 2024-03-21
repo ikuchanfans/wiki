@@ -50,6 +50,7 @@ slug: /
 | 2024.3.14 | CM  | ABC MART PUMA | |  |
 | 2024.3.16 | 音乐  | 『Venue101』#54 MC 23:00～ 嘉宾:ウマ娘『U.M.A. NEW WORLD!!』SUPER BEAVER『幸せのために生きているだけさ』ZEROBASEONE『ゆらゆら-運命の花-』NiziU『SWEET NONFICTION』 | |  |
 | 2024.3.19 | 杂志  | 『リンネル』2024年5月号 | |  |
+| 2024.3.21 | SOLO  | ＢＳテレ東「日経ニュースプラス９」番組エンディングテーマに生田絵梨花「No one compares」が決定いたしました！ | | [详细](https://erikaikuta.jp/s/m12/news/detail/10320?ima=2135) |
 | 2024.3.22 | 杂志  | 『VOCE』2024年5月号 | |  |
 | 2024.3.23 | 音乐  | 『MUSIC FAIR 3000回記念コンサート』连续6周放送 18:00~18:30  | |  |
 | 2024.3.23 | 直播  | TikTok LIVE開催 20:00~ | |  |
