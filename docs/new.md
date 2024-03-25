@@ -62,6 +62,7 @@ slug: /
 | 2024.4.3 | 杂志  | 『TV Bros.特別編集 BPM ブロス・プラス・ミュージック Vol.2』 | |  |
 | 2024.4.3 | SOLO  | 『No one compares』の音源先行配信 | |  |
 | 2024.4.6 | 音乐  | 『Venue101』#55 MC 23:00～ 嘉宾:aespa『Drama』Omoinotake『幾億光年』乃木坂46『チャンスは平等』 | |  |
+| 2024.4.7 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』12:00～12:54| |  |
 | 2024.4.9 | 番组  | 『火曜は全力！華大さんと千鳥くん』22:00～| |  |
 | 2024.4.10 | SOLO  | 1st EP『capriccioso』発売| |  |
 | 2024.4.13 | 电视剧 |『PICU 小児集中治療室』フジドラマ SP2024 21:00~ | |  |
