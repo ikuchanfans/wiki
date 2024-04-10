@@ -93,4 +93,9 @@ slug: /
 | 2024.5.4 | 广播  | FM『君声ラジオ』第1部 12:15～ | |  |
 | 2024.5.4 | 番组  | 『君の声が聴きたい』18:05~| |  |
 | 2024.5.4 | 广播  | FM『君声ラジオ』第3部 19:25～ | |  |
-
+| 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
+| 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
+| 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
+| 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
+| 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
+| 2024.8.22 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYAOPEN 17:30 / START 18:30 | |  |
