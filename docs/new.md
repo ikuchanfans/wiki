@@ -106,6 +106,7 @@ slug: /
 | 2024.5.4 | 广播  | FM『君声ラジオ』第3部 19:25～21:00 | |  |
 | 2024.5.5 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#5 12:00～12:54 | |  |
 | 2024.5.18 | 音乐  | 『Venue101』#57 MC 23:00～ 嘉宾:BABYMONSTER『SHEESH』JO1『Love seeker』BE:FIRST『Masterplan』| |  |
+| 2024.5.20 | 音乐  | 『CDTV』『だからね』| |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
