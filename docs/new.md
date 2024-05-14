@@ -108,6 +108,7 @@ slug: /
 | 2024.5.6 | 电视剧 |『アンメット ある脳外科医の日記』#4 西島麻衣 役 22:00~ | |  |
 | 2024.5.12 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#6 12:00～12:54 | |  |
 | 2024.5.13 | 电视剧 |『アンメット ある脳外科医の日記』#5 西島麻衣 役 22:00~ | |  |
+| 2024.5.15 | 新闻  | 『アサデス。』| |  |
 | 2024.5.18 | 音乐  | 『MUSIC FAIR』『No one compares』『元気を出して』18:00~18:30  | |  |
 | 2024.5.18 | 音乐  | 『Venue101』#57 MC 23:00～ 嘉宾:BABYMONSTER『SHEESH』JO1『Love seeker』BE:FIRST『Masterplan』| |  |
 | 2024.5.19 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#7 12:00～12:54 | |  |
