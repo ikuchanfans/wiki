@@ -111,10 +111,11 @@ slug: /
 | 2024.5.15 | 新闻  | 『グッド！モーニング』今夏スタート日曜夜10時『素晴らしき哉、先生！』地上波連続ドラマ初主演发表| |  |
 | 2024.5.15 | 新闻  | 『アサデス。』今夏スタート日曜夜10時『素晴らしき哉、先生！』地上波連続ドラマ初主演发表| |  |
 | 2024.5.18 | 音乐  | 『MUSIC FAIR』『No one compares』『元気を出して』18:00~18:30  | |  |
-| 2024.5.18 | 音乐  | 『Venue101』#57 MC 23:00～ 嘉宾:BABYMONSTER『SHEESH』JO1『Love seeker』BE:FIRST『Masterplan』| |  |
+| 2024.5.18 | 音乐  | 『Venue101』#57 MC 23:00～ 嘉宾:BABY MONSTER『SHEESH』JO1『Love seeker』BE:FIRST『Masterplan』| |  |
 | 2024.5.19 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#7 12:00～12:54 | |  |
 | 2024.5.20 | 音乐  | 『CDTV』『だからね』19:00~| |  |
 | 2024.5.20 | 电视剧 |『アンメット ある脳外科医の日記』#6 西島麻衣 役 22:00~ | |  |
+| 2024.5.25 | 音乐  | 『Venue101』#58 MC 23:00～ 嘉宾:IMP.『CRUISIN'』ITZY『Algorhythm』sumika『運命』| |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
