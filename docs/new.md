@@ -121,6 +121,7 @@ slug: /
 | 2024.6.1 | 音乐  | 『Venue101』#59 MC 23:00～ 嘉宾:imase『Happy Order?』超ときめき♡宣伝部『最上級にかわいいの！』FANTASTICS『ブレイクライン』| |  |
 | 2024.6.2 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#9 12:00～12:54 | |  |
 | 2024.6.3 | 电视剧 |『アンメット ある脳外科医の日記』#8 西島麻衣 役 22:00~ | |  |
+| 2024.6.8 | 音乐  | 『Venue101』#60 MC 23:00～ 嘉宾:ILLIT『Magnetic』Girls2×iScream『DNA』Cody Lee『DANCE扁桃体』| |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
