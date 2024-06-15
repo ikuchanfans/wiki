@@ -127,6 +127,7 @@ slug: /
 | 2024.6.15 | 音乐  | 『Venue101』#61 MC 23:00～ 嘉宾:XG『WOKEUP』キタニタツヤ『悪魔の踊り方』結束バンド『月並みに輝け』| |  |
 | 2024.6.16 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#11 12:00～12:54 | |  |
 | 2024.6.17 | 电视剧 |『アンメット ある脳外科医の日記』#10 西島麻衣 役 22:00~ | |  |
+| 2024.6.22 | 音乐  | 『Venue101』#62 MC 23:00～ 嘉宾:INI『LOUD』IS:SUE『CONNECT』MAISONdes feat.空音,meiyo『infinite』feat.星街すいせい,sakuma.『なんもない』| |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.5 | 杂志  | 『steady.(ステディ.)』2024年8月号 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
