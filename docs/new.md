@@ -131,6 +131,7 @@ slug: /
 | 2024.6.22 | 音乐  | 『Venue101』#62 MC 23:00～ 嘉宾:INI『LOUD』IS:SUE『CONNECT』MAISONdes feat.空音,meiyo『infinite』feat.星街すいせい,sakuma.『なんもない』| |  |
 | 2024.6.23 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#12 12:00～12:54 | |  |
 | 2024.6.24 | 电视剧 |『アンメット ある脳外科医の日記』#11 西島麻衣 役 22:00~ | |  |
+| 2024.6.29 | 音乐  | 『Venue101』#63 MC 23:00～ 嘉宾:NCT WISH『Song bird』櫻坂46『自業自得』New Jeans『Supernatural』| |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.5 | 杂志  | 『steady.(ステディ.)』2024年8月号 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
