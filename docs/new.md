@@ -139,7 +139,8 @@ slug: /
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
 | 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
 | 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
-| 2024.8.22 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYAOPEN 17:30 / START 18:30 | |  |
+| 2024.8.22 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
+| 2024.9.20 | Live  | Erika Ikuta Tour 2024 『capriccioso』FINAL パシフィコ横浜国立大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.12.16 | 音乐剧  | ~2024.12.19 『レ・ミゼラブル』帝国劇場公演 芳汀 役 | |  |
 | 2025.3 | 音乐剧  | ~2025.6 『レ・ミゼラブル』大阪・福岡・長野・北海道・群馬にて全国ツアー公演 芳汀 役 | |  |
 
