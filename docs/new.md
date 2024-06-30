@@ -135,8 +135,10 @@ slug: /
 | 2024.6.30 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#13 12:00～12:54 | |  |
 | 2024.7.3 | Live  | Erika Ikuta Tour 2024 『capriccioso』大宮ソニックシティ 大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.5 | 杂志  | 『steady.(ステディ.)』2024年8月号 | |  |
+| 2024.7.7 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#14 12:00～12:54 | |  |
 | 2024.7.14 | Live  | Erika Ikuta Tour 2024 『capriccioso』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
+| 2024.8 | 电视剧  | 『素晴らしき哉、先生！』主演 笹岡りお 役 22:00~ | |  |
 | 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
 | 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2024.8.22 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
