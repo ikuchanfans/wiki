@@ -145,6 +145,7 @@ slug: /
 | 2024.8.18 | 电视剧  | 『素晴らしき哉、先生！』#1 主演 笹岡りお 役 22:00~ | |  |
 | 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2024.8.22 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
+| 2024.8.24 | 音乐  | 『Venue101』#65 MC 23:00～ | |  |
 | 2024.9.20 | Live  | Erika Ikuta Tour 2024 『capriccioso』FINAL パシフィコ横浜国立大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.10.13 | Live  | 「平安神宮 月音夜～京都名月コンサート2024～」第二夜 開場：18:15／開演：19:00／終演：20:30  | |  |
 | 2024.12.16 | 音乐剧  | ~2024.12.19 『レ・ミゼラブル』プレビュー公演 芳汀 役 | |  |
