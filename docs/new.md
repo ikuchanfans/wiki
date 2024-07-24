@@ -141,6 +141,11 @@ slug: /
 | 2024.7.16 | Live  | Erika Ikuta Tour 2024 『capriccioso』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
 | 2024.7.20 | 音乐  | 『Venue101』#64 MC 23:00～ 嘉宾:NiziU『RISE UP』BOYNEXTDOOR『Earth, Wind & Fire』ROF-MAO(ろふまお)『DiVE !N』| |  |
 | 2024.7.21 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#16 12:00～12:54 | |  |
+| 2024.7.25 | 杂志  | 『月刊ザテレビジョン』2024年9月号| |  |
+| 2024.7.25 | 新闻  | 『グッド！モーニング』| |  |
+| 2024.7.25 | 新闻  | 『おはよう朝日です』| |  |
+| 2024.7.28 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#17 12:00～12:54 | |  |
+| 2024.7.31 | 杂志  | 『週刊ＴＶガイド関東版2024年9月12日号増刊』| |  |
 | 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
 | 2024.8.18 | 电视剧  | 『素晴らしき哉、先生！』#1 主演 笹岡りお 役 22:00~ | |  |
 | 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
