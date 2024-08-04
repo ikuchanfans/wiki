@@ -148,6 +148,7 @@ slug: /
 | 2024.7.31 | 杂志  | 『週刊ＴＶガイド関東版2024年9月12日号増刊』| |  |
 | 2024.7.31 | 杂志  | 『テレビライフ首都圏版 2024年8/23号』| |  |
 | 2024.8.4 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#18 12:00～12:54 | |  |
+| 2024.8.11 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#19 12:00～12:54 | |  |
 | 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
 | 2024.8.18 | 电视剧  | 『素晴らしき哉、先生！』#1 主演 笹岡りお 役 22:00~ | |  |
 | 2024.8.21 | Live  | Erika Ikuta Tour 2024 『capriccioso』LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
