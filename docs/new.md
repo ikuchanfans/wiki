@@ -150,6 +150,7 @@ slug: /
 | 2024.8.4 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#18 12:00～12:54 | |  |
 | 2024.8.11 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#19 12:00～12:54 | |  |
 | 2024.8.11 | Live  | Erika Ikuta Tour 2024 『capriccioso』東京エレクトロンホール宮城 OPEN 17:00 / START 18:00 | |  |
+| 2024.8.16 | 新闻  | 『ドデスカ！』| |  |
 | 2024.8.18 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#20 12:00～12:54 | |  |
 | 2024.8.18 | 番组  | 『ポツンと一軒家』19:58~20:56 | |  |
 | 2024.8.18 | 电视剧  | 『素晴らしき哉、先生！』#1 主演 笹岡りお 役 22:00~ | |  |
