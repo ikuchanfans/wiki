@@ -175,6 +175,7 @@ slug: /
 | 2024.9.14 | 音乐  | 『Venue101』#68 MC 23:00～ 嘉宾:JO1『WHERE DO WE GO』NIKO NIKO TAN TAN『Only Lonely Dance』乃木坂46『チートデイ』| |  |
 | 2024.9.15 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#24 12:00～12:54  | |  |
 | 2024.9.15 | 电视剧  | 『素晴らしき哉、先生！』#5 主演 笹岡りお 役 22:00~ | |  |
+| 2024.9.18 | 杂志  |  『みんなのうた』 テキスト10-11月号 生田絵梨花「かくれんぼ」| |  |
 | 2024.9.20 | Live  | Erika Ikuta Tour 2024 『capriccioso』FINAL パシフィコ横浜国立大ホール OPEN 17:30 / START 18:30 | |  |
 | 2024.9.21 | 音乐  | 『Venue101』#69 MC 23:00～ 嘉宾:KATSEYE『Touch』こっちのけんと『はいよろこんで』SPYAIR『オレンジ』日向坂46『絶対的第六感』| |  |
 | 2024.9.22 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#25 12:00～12:54  | |  |
