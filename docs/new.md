@@ -201,11 +201,11 @@ slug: /
 | 2024.10.9 | SOLO  | 『かくれんぼ』配信| |  |
 | 2024.10.9 | 新闻  | 『闹钟tv』| |  |
 | 2024.10.12 | 音乐  | 『Music Fair』「かくれんぼ」「楓」18:00~ | |  |
-| 2024.10.12 | 音乐  | 『Venue101EXTRA』 MC 嘉宾:KOMOREBI『GiriGiri』真天地開闢集団ジグザグ『JAPPARAPAN』JO1『HAPPY UNBIRTHDAY』羊文学『Burning』緑黄色社会『僕らはいきものだから』| |  |
+| 2024.10.12 | 音乐  | 『Venue101EXTRA』 MC 23:00～ 嘉宾:KOMOREBI『GiriGiri』真天地開闢集団ジグザグ『JAPPARAPAN』JO1『HAPPY UNBIRTHDAY』羊文学『Burning』緑黄色社会『僕らはいきものだから』| |  |
 | 2024.10.13 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#28 12:00～12:54  | |  |
 | 2024.10.13 | Live  | 「平安神宮 月音夜～京都名月コンサート2024～」第二夜 開場：18:15／開演：19:00／終演：20:30  | |  |
 | 2024.10.16 | 音乐剧  | 『レ・ミゼラブル』製作発表記者会見 11:30~13:00 | |  |
-| 2024.10.19 | 音乐  | 『Venue101EXTRA』 MC 嘉宾:いれいす『Place to be』櫻坂46『I want tomorrow to come』ハマいく『love10』BE:FIRST『Guilty』| |  |
+| 2024.10.19 | 音乐  | 『Venue101EXTRA』 MC 23:00～ 嘉宾:いれいす『Place to be』櫻坂46『I want tomorrow to come』ハマいく『love10』BE:FIRST『Guilty』| |  |
 | 2024.10.20 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#29 12:00～12:54  | |  |
 | 2024.10.20 | 番组  | 『情熱大陸』23:25~23:55 | |  |
 | 2024.10.24 | 音乐  | 竹内まりやの特集番組『竹内まりや Music&Life ～人生の扉～』22:00~22:45 | |  |
