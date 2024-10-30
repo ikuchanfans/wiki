@@ -238,5 +238,11 @@ slug: /
 | 2025.2.2 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 18:00~| |  |
 | 2025.2.5 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 13:00~| |  |
 | 2025.2.7 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 12:00~| |  |
+| 2025.2.14 | 音乐  | CONCERT『THE BEST New HISTORY COMING』17:00~| | [链接](https://www.tohostage.com/THEBEST/)  |
+| 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』13:00~| |  |
+| 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~ LIVE配信| |  |
+| 2025.2.16 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~| |  |
+| 2025.2.17 | 音乐  | CONCERT『THE BEST New HISTORY COMING』13:00~| |  |
+| 2025.2.17 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~ LIVE配信| |  |
 | 2025.3 | 音乐剧  | ~2025.6 『レ・ミゼラブル』大阪・福岡・長野・北海道・群馬にて全国ツアー公演 芳汀 役 | |  |
 
