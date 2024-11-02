@@ -214,6 +214,7 @@ slug: /
 | 2024.11.2 | 音乐  | MUSIC ON! TV「Erika Ikuta Tour 2024『capriccioso』独占放送」19:00〜20:30 | |  |
 | 2024.11.2 | 音乐  | 『Venue101』#71 MC 23:00～ 嘉宾: アイナジエンド『Poppin’ Run』MAZZEL『MAZQUERADE』MADEIN『UNO』| |  |
 | 2024.11.3 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#31 12:00～12:54  | |  |
+| 2024.11.9 | 音乐  | 『Venue101』#72 MC 23:00～ 嘉宾: INI『WDMA(Where My Drums At)』IMP.『BAM-BOO』生田絵梨花『かくれんぼ』| |  |
 | 2024.12.16 | 音乐剧  | ~2024.12.19 『レ・ミゼラブル』プレビュー公演 芳汀 役 | |  |
 | 2024.12.25 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 18:00~| |  |
 | 2024.12.26 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 13:00~| |  |
