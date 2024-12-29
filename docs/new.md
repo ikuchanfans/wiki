@@ -247,6 +247,7 @@ slug: /
 | 2025.1.2 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 13:00~| |  |
 | 2025.1.4 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 18:00~| |  |
 | 2025.1.5 | 杂志  |  『ミュージカル／2025年1月・2月号』 | |  |
+| 2025.1.5 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#39 12:00～12:54  | |  |
 | 2025.1.6 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 13:00~| |  |
 | 2025.1.7 | Live  | 『Erika Ikuta Premium Billboard Live 2025』1st ステージ　OPEN 16:30 / START 17:30 | |  |
 | 2025.1.7 | Live  | 『Erika Ikuta Premium Billboard Live 2025』2nd ステージ　OPEN 19:30 / START 20:30 | |  |
