@@ -46,6 +46,7 @@ slug: /
 | 2025.2.7 | 音乐剧  | 『レ・ミゼラブル』帝国劇場公演 芳汀 役 12:00~| |  |
 | 2025.2.8 | 音乐  | 『Venue101』#77 MC 23:00～ 嘉宾:岩田剛典『PhoneNumber』櫻坂46『UDAGAWA GENERATION』マカロニえんぴつ『然らば』夜々『LonelyNight』| |  |
 | 2025.2.9 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#45 12:00～12:54  | |  |
+| 2025.2.14 | SOLO  | 『上出来』『無視』先行配信| |  |
 | 2025.2.14 | 音乐  | CONCERT『THE BEST New HISTORY COMING』17:00~| | [链接](https://www.tohostage.com/THEBEST/)  |
 | 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』13:00~| |  |
 | 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~ LIVE配信| |  |
