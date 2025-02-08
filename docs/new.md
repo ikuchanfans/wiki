@@ -49,6 +49,7 @@ slug: /
 | 2025.2.14 | SOLO  | 『上出来』『無視』先行配信| |  |
 | 2025.2.14 | 音乐  | CONCERT『THE BEST New HISTORY COMING』17:00~| | [链接](https://www.tohostage.com/THEBEST/)  |
 | 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』13:00~| |  |
+| 2025.2.15 | 音乐  | 『MUSIC FAIR』『上出来』 『SWEET MEMORIES』with 森崎ウィン 18:00~| |  |
 | 2025.2.15 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~ LIVE配信| |  |
 | 2025.2.16 | 音乐  | CONCERT『THE BEST New HISTORY COMING』18:00~| |  |
 | 2025.2.17 | 音乐  | CONCERT『THE BEST New HISTORY COMING』13:00~| |  |
