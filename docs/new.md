@@ -58,6 +58,7 @@ slug: /
 | 2025.2.22 | 音乐  | 『Venue101』#78 MC 23:00～ 嘉宾:ano『この世界に二人だけ』SUPERBEAVER『涙の正体』TOMORROW_X_TOGETHER『5時53分の空で見つけた君と僕』乃紫『バレンタイン決戦』| |  |
 | 2025.2.23 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#47 12:00～12:54  | |  |
 | 2025.3.1 | 音乐  | 『Venue101』#79 MC 23:00～ 嘉宾:生田絵梨花『アンサンブル・シャングリラ』＝LOVE『とくべチュして』sumika『Vermillion』BE:FIRST『Spacecraft』| |  |
+| 2025.3.2 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#48 12:00～12:54  | |  |
 | 2025.3.5 | SOLO  | 2nd EP『bitter candy』発売| |  |
 | 2025.3.5 | SOLO  | 2nd EP『bitter candy』发售纪念特别谈话活动 集合時間：18:30 / 開始時間：19:00 | |  |
 | 2025.3.8 | 音乐  | 『Venue101』#80 MC 23:00～ 嘉宾:『』『』『』『』| |  |
