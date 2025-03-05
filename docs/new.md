@@ -111,3 +111,10 @@ slug: /
 | 2025.6.12 | 音乐剧  | 『レ・ミゼラブル』群馬高崎芸術劇場公演 芳汀 役 12:30~| |  |
 | 2025.6.13 | 音乐剧  | 『レ・ミゼラブル』群馬高崎芸術劇場公演 芳汀 役 12:30~| |  |
 | 2025.6.14 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.6.22 | Live  | Erika Ikuta Tour 2025 『bitter candy』福岡サンパレス ホテル&ホール OPEN 17:00 / START 18:00 | |  |
+| 2025.6.29 | Live  | Erika Ikuta Tour 2025 『bitter candy』昭和女子大学人見記念講堂 OPEN 17:00 / START 18:00 | |  |
+| 2025.7.1 | Live  | Erika Ikuta Tour 2025 『bitter candy』カルッツかわさき ホール OPEN 17:30 / START 18:30 | |  |
+| 2025.7.18 | Live  | Erika Ikuta Tour 2025 『bitter candy』大宮ソニックシティ　大ホール OPEN 17:30 / START 18:30 | |  |
+| 2025.7.27 | Live  | Erika Ikuta Tour 2025 『bitter candy』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
+| 2025.7.30 | Live  | Erika Ikuta Tour 2025 『bitter candy』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
+| 2025.8.4 | Live  | Erika Ikuta Tour 2025 『bitter candy』東京国際フォーラム ホールA OPEN 17:30 / START 18:30 | |  |
