@@ -61,7 +61,7 @@ slug: /
 | 2025.2.28 | 杂志  |  『25ans』 2024年4月号 | |  |
 | 2025.3.1 | 音乐  | 『Venue101』#79 MC 23:00～ 嘉宾:生田絵梨花『アンサンブル・シャングリラ』＝LOVE『とくべチュして』sumika『Vermillion』BE:FIRST『Spacecraft』| |  |
 | 2025.3.2 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#48 12:00～12:54  | |  |
-| 2025.3.3 | CM  | 『三ツ矢サイダー』| [链接](https://www.asahiinryo.co.jp/mitsuya-cider/sp/)|  |
+| 2025.3.3 | CM  | 『三ツ矢サイダー』3.13公开| [链接](https://www.asahiinryo.co.jp/mitsuya-cider/sp/)|  |
 | 2025.3.4 | 音乐  | 『うたコン』19:30～20:42「切手のないおくりもの」「上出来」| |  |
 | 2025.3.5 | SOLO  | 2nd EP『bitter candy』発売| |  |
 | 2025.3.5 | 新闻  | 『闹钟tv』| |  |
@@ -69,6 +69,7 @@ slug: /
 | 2025.3.5 | SOLO  | ins直播 20:00~| |  |
 | 2025.3.7 | 杂志  |  『InRed』 4月号  | |  |
 | 2025.3.9 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#49 12:00～12:54  | |  |
+| 2025.3.12 | 新闻  | 『グッド！モーニング』| |  |
 | 2025.3.16 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#50 12:00～12:54  | |  |
 | 2025.3.16 | 音乐剧  | 『レ・ミゼラブル』大阪梅田芸術劇場メインホール公演 芳汀 役 17:00~| |  |
 | 2025.3.17 | 音乐剧  | 『レ・ミゼラブル』大阪梅田芸術劇場メインホール公演 芳汀 役 12:00~| |  |
