@@ -161,3 +161,4 @@ slug: /
 | 2025.8.4 | Live  | Erika Ikuta Tour 2025 『bitter candy』東京国際フォーラム ホールA OPEN 17:30 / START 18:30 | |  |
 | 2025.10.9 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za ~25.11.3| |  |
 | 2025.11 | 舞台剧  | 『リア王』大阪:SkyシアターMBS | |  |
+| 2025 | CM  | 『明日も（IKUSHAMO Ver.）』を生披露！公開収録トーク&ライブ | |  |
