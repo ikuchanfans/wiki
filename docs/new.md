@@ -145,6 +145,7 @@ slug: /
 | 2025.6.29 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#65 12:00～12:54  | |  |
 | 2025.6.29 | Live  | Erika Ikuta Tour 2025 『bitter candy』昭和女子大学人見記念講堂 OPEN 17:00 / START 18:00 | |  |
 | 2025.7.1 | Live  | Erika Ikuta Tour 2025 『bitter candy』カルッツかわさき ホール OPEN 17:30 / START 18:30 | |  |
+| 2025.7 | 电视剧  | 『明日はもっと、いい日になる』| |  |
 | 2025.7.5 | 音乐  | 『Venue101』#92 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.6 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#66 12:00～12:54  | |  |
 | 2025.7.12 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
