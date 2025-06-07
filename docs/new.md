@@ -129,35 +129,34 @@ slug: /
 | 2025.5.30 | 音乐剧  | 『レ・ミゼラブル』北海道札幌文化芸術劇場hitaru公演 芳汀 役 13:00~| |  |
 | 2025.5.31 | 音乐  | 『Venue101』#87 MC 23:00～ 嘉宾:新しい学校のリーダーズ『One Heart』Omoinotake『ひとりごと』≠ME『モブノデレラ』| |  |
 | 2025.6.1 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#61 12:00～12:54  | |  |
-| 2025.6.7 | 音乐  | 『Venue101』#88 MC 23:00～ 嘉宾:INI『DOMINANCE』IVE『DARE ME』マルシィ『青空』| |  |
 | 2025.6.8 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#62 12:00～12:54  | |  |
 | 2025.6.8 | 番组  | 『有吉のお金発見　突撃！カネオくん』18:05～18:45  | |  |
 | 2025.6.12 | 音乐剧  | 『レ・ミゼラブル』群馬高崎芸術劇場公演 芳汀 役 12:30~| |  |
 | 2025.6.13 | 音乐剧  | 『レ・ミゼラブル』群馬高崎芸術劇場公演 芳汀 役 12:30~| |  |
 | 2025.6.14 | 番组  | 『土スタ』13:50〜14:50| |  |
 | 2025.6.14 | 电视剧  | NHKスペシャルドラマ『天城越え』主演 大塚ハナ役 ＜BS＞ 21:00〜22:29| |  |
-| 2025.6.14 | 音乐  | 『Venue101』#89 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.6.14 | 音乐  | 『Venue101』#88 MC 23:00～ 嘉宾:INI『DOMINANCE』IVE『DARE ME』マルシィ『青空』| |  |
 | 2025.6.15 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#63 12:00～12:54  | |  |
-| 2025.6.21 | 音乐  | 『Venue101』#90 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.6.21 | 音乐  | 『Venue101』#89 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.6.22 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#64 12:00～12:54  | |  |
 | 2025.6.22 | Live  | Erika Ikuta Tour 2025 『bitter candy』福岡サンパレス ホテル&ホール OPEN 17:00 / START 18:00 | |  |
-| 2025.6.28 | 音乐  | 『Venue101』#91 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.6.28 | 音乐  | 『Venue101』#90 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.6.29 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#65 12:00～12:54  | |  |
 | 2025.6.29 | Live  | Erika Ikuta Tour 2025 『bitter candy』昭和女子大学人見記念講堂 OPEN 17:00 / START 18:00 | |  |
 | 2025.7.1 | Live  | Erika Ikuta Tour 2025 『bitter candy』カルッツかわさき ホール OPEN 17:30 / START 18:30 | |  |
 | 2025.7 | 电视剧  | 『明日はもっと、いい日になる』| |  |
-| 2025.7.5 | 音乐  | 『Venue101』#92 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.7.5 | 音乐  | 『Venue101』#91 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.6 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#66 12:00～12:54  | |  |
-| 2025.7.12 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.7.12 | 音乐  | 『Venue101』#92 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.13 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#67 12:00～12:54  | |  |
 | 2025.7.18 | Live  | Erika Ikuta Tour 2025 『bitter candy』大宮ソニックシティ　大ホール OPEN 17:30 / START 18:30 | |  |
-| 2025.7.19 | 音乐  | 『Venue101』#94 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.7.19 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.20 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#68 12:00～12:54  | |  |
-| 2025.7.26 | 音乐  | 『Venue101』#95 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.7.26 | 音乐  | 『Venue101』#94 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.27 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#69 12:00～12:54  | |  |
 | 2025.7.27 | Live  | Erika Ikuta Tour 2025 『bitter candy』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2025.7.30 | Live  | Erika Ikuta Tour 2025 『bitter candy』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
-| 2025.8.2 | 音乐  | 『Venue101』#96 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.8.2 | 音乐  | 『Venue101』#95 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.8.3 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#70 12:00～12:54  | |  |
 | 2025.8.4 | Live  | Erika Ikuta Tour 2025 『bitter candy』東京国際フォーラム ホールA OPEN 17:30 / START 18:30 | |  |
 | 2025.10.9 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za ~25.11.3| |  |
