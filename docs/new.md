@@ -139,7 +139,7 @@ slug: /
 | 2025.6.14 | 电视剧  | NHKスペシャルドラマ『天城越え』主演 大塚ハナ役 ＜BS＞ 21:00〜22:29| |  |
 | 2025.6.14 | 音乐  | 『Venue101』#88 MC 23:00～ 嘉宾:INI『DOMINANCE』IVE『DARE ME』マルシィ『青空』| |  |
 | 2025.6.15 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#63 12:00～12:54  | |  |
-| 2025.6.21 | 音乐  | 『Venue101』#89 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.6.21 | 音乐  | 『Venue101』#89 MC 23:00～ 嘉宾:aoen『青い太陽 TheBlueSun』こっちのけんと『けっかおーらい』LE_SSERAFIM『DIFFERENT』| |  |
 | 2025.6.22 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#64 12:00～12:54  | |  |
 | 2025.6.22 | Live  | Erika Ikuta Tour 2025 『bitter candy』福岡サンパレス ホテル&ホール OPEN 17:00 / START 18:00 | |  |
 | 2025.6.27 | 杂志  | 『BAILA』 2025年8.9月合併号| |  |
