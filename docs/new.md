@@ -156,6 +156,7 @@ slug: /
 | 2025.7.18 | Live  | Erika Ikuta Tour 2025 『bitter candy』大宮ソニックシティ　大ホール OPEN 17:30 / START 18:30 | |  |
 | 2025.7.19 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.20 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#68 12:00～12:54  | |  |
+| 2025.7.24 | CM  | 『明日も（IKUSHAMO Ver.）』を生披露！公開収録トーク&ライブ TOKYO FM HALL 19:00~ | |  |
 | 2025.7.26 | 音乐  | 『Venue101』#94 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.7.27 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#69 12:00～12:54  | |  |
 | 2025.7.27 | Live  | Erika Ikuta Tour 2025 『bitter candy』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
@@ -195,4 +196,4 @@ slug: /
 | 2025.11.2 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 13:00~| |  |
 | 2025.11.3 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 13:00~| |  |
 | 2025.11.8 | 舞台剧  | 『リア王』大阪:SkyシアターMBS ~25.11.16 | |  |
-| 2025 | CM  | 『明日も（IKUSHAMO Ver.）』を生披露！公開収録トーク&ライブ | |  |
+
