@@ -144,6 +144,7 @@ slug: /
 | 2025.6.22 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#64 12:00～12:54  | |  |
 | 2025.6.22 | Live  | Erika Ikuta Tour 2025 『bitter candy』福岡サンパレス ホテル&ホール OPEN 17:00 / START 18:00 | |  |
 | 2025.6.27 | 杂志  | 『BAILA』 2025年8.9月合併号| |  |
+| 2025.6.28 | 音乐  | 『love10』MV公開 18:00~| |  |
 | 2025.6.28 | 音乐  | 『Venue101』#90 MC 23:00～ 嘉宾:ano『PastdieFuture』櫻坂46『Make or Break』ONE N'ONLY『BLAST』| |  |
 | 2025.6.29 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#65 12:00～12:54  | |  |
 | 2025.6.29 | Live  | Erika Ikuta Tour 2025 『bitter candy』昭和女子大学人見記念講堂 OPEN 17:00 / START 18:00 | |  |
