@@ -152,8 +152,9 @@ slug: /
 | 2025.7.5 | 音乐  | 『Venue101』#91 MC 23:00～ 嘉宾:ELAIZA『テキトーLOVE』キタニタツヤ『まなざしは光』ナナヲアカリ『明日の私に幸あれ』離婚伝説『紫陽花』| |  |
 | 2025.7.6 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#66 12:00～12:54  | |  |
 | 2025.7.6 | 电视剧  | 『明日はもっと、いい日になる』制作発表10:00～12:00| |  |
-| 2025.7.7 | 电视剧  | 『明日はもっと、いい日になる』21:00~| |  |
+| 2025.7.7 | 电视剧  | 『明日はもっと、いい日になる』#1 21:00~| |  |
 | 2025.7.13 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#67 12:00～12:54  | |  |
+| 2025.7.14 | 电视剧  | 『明日はもっと、いい日になる』#2 21:00~| |  |
 | 2025.7.18 | Live  | Erika Ikuta Tour 2025 『bitter candy』大宮ソニックシティ　大ホール OPEN 17:30 / START 18:30 | |  |
 | 2025.7.19 | 音乐  | 『Venue101』#92 MC 23:00～ 嘉宾:idle『Good Thing』A.B.C-Z『JustRomantic!』CLASS SEVEN『miss you』w.o.d.『TOKYO CALLING』| |  |
 | 2025.7.20 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#68 12:00～12:54  | |  |
