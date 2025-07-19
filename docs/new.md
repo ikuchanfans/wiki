@@ -160,7 +160,7 @@ slug: /
 | 2025.7.20 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#68 12:00～12:54  | |  |
 | 2025.7.21 | 电视剧  | 『明日はもっと、いい日になる』#3 21:00~| |  |
 | 2025.7.24 | CM  | 『明日も（IKUSHAMO Ver.）』を生披露！公開収録トーク&ライブ TOKYO FM HALL 19:00~ | |  |
-| 2025.7.26 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.7.26 | 音乐  | 『Venue101』#93 MC 23:00～ 嘉宾:NEXZ『One Bite』乃木坂46『Same numbers』HANA『Blue Jeans』RIIZE『FlyUp』| |  |
 | 2025.7.27 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#69 12:00～12:54  | |  |
 | 2025.7.27 | Live  | Erika Ikuta Tour 2025 『bitter candy』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2025.7.30 | Live  | Erika Ikuta Tour 2025 『bitter candy』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
