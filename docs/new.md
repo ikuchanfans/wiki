@@ -166,7 +166,7 @@ slug: /
 | 2025.7.27 | Live  | Erika Ikuta Tour 2025 『bitter candy』愛知県芸術劇場 大ホール OPEN 17:00 / START 18:00 | |  |
 | 2025.7.28 | 电视剧  | 『明日はもっと、いい日になる』#4 21:00~| |  |
 | 2025.7.30 | Live  | Erika Ikuta Tour 2025 『bitter candy』フェスティバルホール OPEN 17:30 / START 18:30 | |  |
-| 2025.8.2 | 音乐  | 『Venue101』#94 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.8.2 | 音乐  | 『Venue101』#94 MC 23:00～ 嘉宾:アイナジエンド『革命道中』CENT『ラブシンドローム』超ときめき♡宣伝部『超最強』PLAVE『かくれんぼ』| |  |
 | 2025.8.3 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#70 12:00～12:54  | |  |
 | 2025.8.4 | Live  | Erika Ikuta Tour 2025 『bitter candy』東京国際フォーラム ホールA OPEN 17:30 / START 18:30 | |  |
 | 2025.8.20 | Live  | 『みんなの澄みきる瞬間撮ってみたMOVIE! by 三ツ矢サイダー』 | |  |
