@@ -170,6 +170,7 @@ slug: /
 | 2025.8.3 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#70 12:00～12:54  | |  |
 | 2025.8.4 | Live  | Erika Ikuta Tour 2025 『bitter candy』東京国際フォーラム ホールA OPEN 17:30 / START 18:30 | |  |
 | 2025.8.4 | 电视剧  | 『明日はもっと、いい日になる』#5 21:00~| |  |
+| 2025.8.10 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#71 12:00～12:54  | |  |
 | 2025.8.20 | Live  | 『みんなの澄みきる瞬間撮ってみたMOVIE! by 三ツ矢サイダー』 | |  |
 | 2025.8.30 | 音乐  | 『Venue101』#95 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2025.9.7 | Live  | TOKYO FM『サンデースペシャル』IKUSHAMO 19:00～ | |  |
