@@ -183,6 +183,7 @@ slug: /
 | 2025.8.31 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#74 12:00～12:54  | |  |
 | 2025.9.1 | 电视剧  | 『明日はもっと、いい日になる』#9 21:00~| |  |
 | 2025.9.3 | SOLO  | Digital Single「ピリオド」配信 | |  |
+| 2025.9.6 | 番组  | 『めざましどようび』内『キクエがキクヨ!』| |  |
 | 2025.9.6 | 音乐  | 『Venue101』#95 MC 23:00～ 嘉宾:Kroi『Method』BE:FIRST『空』ME:I『THIS IS ME:I』| |  |
 | 2025.9.7 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#75 12:00～12:54  | |  |
 | 2025.9.7 | Live  | TOKYO FM『サンデースペシャル』IKUSHAMO 19:00～ | |  |
