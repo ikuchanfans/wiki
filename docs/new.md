@@ -196,7 +196,7 @@ slug: /
 | 2025.9.15 | 电视剧  | 『明日はもっと、いい日になる』#11 21:00~| |  |
 | 2025.9.16 | 广播  | エフエム山陰『髙田りおんのGO-!EVENING!』17:20～18:30 | |  |
 | 2025.9.21 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#77 12:00～12:54  | |  |
-| 2025.9.27 | 音乐  | 『Venue101』#97 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2025.9.27 | 音乐  | 『Venue101』#97 MC 23:00～ 嘉宾:KviBaba『I Like It』THEJETBOYBANGERZ『LetsDance』真天地開闢集団ジグザグ『P0WER悪霊退散』JO1『HandzInMyPocket』| |  |
 | 2025.9.28 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#78 12:00～12:54  | |  |
 | 2025.9.29 | 杂志  | 『週刊現代』| |  |
 | 2025.10.3 | 番组  | 『A-Studio＋』23:00~| |  |
