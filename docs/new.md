@@ -208,7 +208,7 @@ slug: /
 | 2025.9.21 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#77 12:00～12:54  | |  |
 | 2025.9.24 | 杂志  |  『Get Navi』2025年11月号  | |  |
 | 2025.9.27 | 音乐  | 『Venue101』#97 MC 23:00～ 嘉宾:KviBaba『I Like It』THEJETBOYBANGERZ『LetsDance』真天地開闢集団ジグザグ『P0WER悪霊退散』JO1『HandzInMyPocket』| |  |
-| 2025.9.28 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』#78 12:00～12:54  | |  |
+| 2025.9.28 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』最終回#78 12:00～12:54  | |  |
 | 2025.9.29 | 杂志  | 『週刊現代』| |  |
 | 2025.10.3 | 番组  | 『A-Studio＋』23:00~| |  |
 | 2025.10.9 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
