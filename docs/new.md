@@ -210,6 +210,7 @@ slug: /
 | 2025.9.27 | 音乐  | 『Venue101』#97 MC 23:00～ 嘉宾:KviBaba『I Like It』THEJETBOYBANGERZ『LetsDance』真天地開闢集団ジグザグ『P0WER悪霊退散』JO1『HandzInMyPocket』| |  |
 | 2025.9.28 | 广播  | J-WAVE 81.3FM『Volkswagen DRIVING WITH YOU』最終回#78 12:00～12:54  | |  |
 | 2025.9.29 | 杂志  | 『週刊現代』| |  |
+| 2025.10.3 | 杂志  | 『日経トレンディ』2025年11月号| |  |
 | 2025.10.3 | 番组  | 『A-Studio＋』23:00~| |  |
 | 2025.10.4 | 音乐  | 『Venue101』#98 MC 23:00～ 嘉宾:INI『君がいたから』SWEET STEADY『YAKIMOCHI』STARGLOW『Moonchaser』| |  |
 | 2025.10.5 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#1 12:00～12:54  | |  |
