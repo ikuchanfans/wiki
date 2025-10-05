@@ -218,6 +218,7 @@ slug: /
 | 2025.10.9 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
 | 2025.10.11 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 12:00~| |  |
 | 2025.10.11 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
+| 2025.10.12 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#2 12:00～12:54  | |  |
 | 2025.10.12 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 13:00~| |  |
 | 2025.10.13 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 12:00~| |  |
 | 2025.10.13 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
