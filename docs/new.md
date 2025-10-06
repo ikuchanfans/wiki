@@ -215,6 +215,7 @@ slug: /
 | 2025.10.3 | 番组  | 『A-Studio＋』23:00~| |  |
 | 2025.10.4 | 音乐  | 『Venue101』#99 MC 23:00～ 嘉宾:INI『君がいたから』SWEET STEADY『YAKIMOCHI』STARGLOW『Moonchaser』| |  |
 | 2025.10.5 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#1 12:00～12:54  | |  |
+| 2025.10.5 | 音乐  | 『FNS鬼レンチャン歌謡祭』ハマいく『love10』| |  |
 | 2025.10.9 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
 | 2025.10.11 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 12:00~| |  |
 | 2025.10.11 | 舞台剧  | 『リア王』東京:THEATER MILANO-Za 17:00~| |  |
