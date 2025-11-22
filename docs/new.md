@@ -269,3 +269,5 @@ slug: /
 | 2025.11.22 | 音乐  | 『Venue101』#103 MC 23:00～ 嘉宾:石川晟也『オカンのLINE』&TEAM『BacktoLife』乃木坂46『ビリヤニ』MAZZEL『Only You』| |  |
 | 2025.11.23 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#8 12:00～12:54  | |  |
 | 2025.12.3 | 音乐  | 『FNS歌謡祭』18:30～『』| |  |
+| 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 昼公演 OPEN 13:30 / START 14:30| |  |
+| 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 夜公演 OPEN 17:30 / START 18:30| |  |
