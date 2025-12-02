@@ -270,7 +270,7 @@ slug: /
 | 2025.11.23 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#8 12:00～12:54  | |  |
 | 2025.11.29 | 音乐  | 『Venue101』#104 MC 23:00～ 嘉宾:BalmingTiger『Wash Away』もさを。『ぎゅっと。』Liella!『OPEN THE G☆TE!!!』| |  |
 | 2025.11.30 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#9 12:00～12:54  | |  |
-| 2025.12.3 | 音乐  | 『FNS歌謡祭』18:30～『』| |  |
+| 2025.12.3 | 音乐  | 『FNS歌謡祭』18:30～工藤静香×生田絵梨花『MUGO・ん…色っぽい』生田絵梨花『ピリオド』| |  |
 | 2025.12.6 | 音乐  | 『Venue101』#105 MC 23:00～ 嘉宾:IMP.『KISS』Kis-My-Ft2『&Joy』NEE『マニック』| |  |
 | 2025.12.7 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#10 12:00～12:54  | |  |
 | 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 昼公演 OPEN 13:30 / START 14:30| |  |
