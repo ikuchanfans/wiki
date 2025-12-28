@@ -279,6 +279,7 @@ slug: /
 | 2025.12.16 | 音乐  | 『Venue101 紅白SPECIAL』 MC 23:00～ 嘉宾:CANDY TUNE『倍倍FIGHT!』HANA『NONSTOP』M!LK『好きすぎて滅 !』| |  |
 | 2025.12.21 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#12 12:00～12:54  | |  |
 | 2025.12.28 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#13 12:00～12:54  | |  |
+| 2026.1.4 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#14 12:00～12:54  | |  |
 | 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 昼公演 OPEN 13:30 / START 14:30| |  |
 | 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 夜公演 OPEN 17:30 / START 18:30| |  |
 | 2026.1.24 | 音乐  | 『Venue101 紅白振り返りSPECIAL』 MC 23:00～23:45| |  |
