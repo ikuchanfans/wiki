@@ -19,7 +19,7 @@ slug: /
 | 2026.1.18 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#16 12:00～12:54  | |  |
 | 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 昼公演 OPEN 13:30 / START 14:30| [特設ページ](https://erikaikuta.jp/s/m12/page/birthday_event_2026)|  |
 | 2026.1.22 | Event | 『Erika Ikuta Birthday Event 2026』KT Zepp Yokohama 夜公演 OPEN 17:30 / START 18:30| |  |
-| 2026.1.24 | 音乐  | 『Venue101 紅白振り返りSPECIAL』 MC 23:00～23:45| |  |
+| 2026.1.24 | 音乐  | 『Venue101 紅白振り返りSPECIAL』 MC 23:00～23:45 嘉宾:アイナジエンド『スイカ』FRUITS ZIPPER『はちゃめちゃわちゃライフ！』| |  |
 | 2026.1.25 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#17 12:00～12:54  | |  |
 | 2026.2.17 | 音乐  | 『Venue101 EXTRA in 仙台 ～震災から15年 未来へ～』仙台サンプラザホール MC 18:15開場 19:00開演 21:00終演予定 乃木坂46・HANA・宮世琉弥| |  |
 | 2026.2.20 | 音乐  | 『MUSIC FAIR 3100回記念コンサート』 東京国際フォーラム ホールA| |  |
