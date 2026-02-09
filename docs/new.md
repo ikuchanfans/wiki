@@ -27,8 +27,13 @@ slug: /
 | 2026.2.28 | 音乐  | 『Venue101』#106 MC 23:00～ 嘉宾:『』『』『』| |  |
 | 2026.3.14 | 音乐  | 『Venue101 EXTRA in 仙台 ～震災から15年 未来へ～』23:00～23:45 放送予定| |  |
 | 2026.4.4  | 动画  | 『本好きの下剋上 領主の養女』17:30～ ED「今も、ありがとう」| |  |
+| 2026.4 | 晨间剧  | 『風、薫る』玉田多江 役 | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
 | 2026.5.6 | 音乐  | 『Happy Mother's Day！～母に感謝のコンサート2026 in TOKYO～』OPEN 16:00 / START 17:00 サントリーホール 大ホール| |  |
 | 2026.6.18 | 音乐  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
-| 2026 | 晨间剧  | 『風、薫る』玉田多江 役 | |  |
-
+| 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
+| 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
+| 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
+| 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ NHKホール OPEN 17:30 / START 18:30 | |  |
