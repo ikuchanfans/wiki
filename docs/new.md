@@ -43,9 +43,9 @@ slug: /
 | 2026.4.26 | Event  |『I.K.T』発売記念 スペシャルトークイベント| |  |
 | 2026.5.6 | 音乐  | 『Happy Mother's Day！～母に感謝のコンサート2026 in TOKYO～』OPEN 16:00 / START 17:00 サントリーホール 大ホール| |  |
 | 2026.6.18 | 音乐  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
-| 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
-| 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
-| 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
-| 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
-| 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
-| 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』~I Know Tomorrow~ NHKホール OPEN 17:30 / START 18:30 | |  |
+| 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
+| 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
+| 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 神奈川 よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
+| 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
