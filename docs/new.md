@@ -55,6 +55,7 @@ slug: /
 | 2026.4.2 | 杂志  |『音楽誌MG』NO.32  | |  |
 | 2026.4.4  | 动画  | 『本好きの下剋上 領主の養女』17:30～ ED「今も、ありがとう」| |  |
 | 2026.4.4 | 音乐  | 『Venue101』#107 MC 23:00～ 嘉宾:川上洋平×SennaRin『ENDROLL』櫻坂46『The growing up train』juicejuice『盛れミアモーレ』MAZZEL『Get Up And Dance』| |  |
+| 2026.4.5 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#27 12:00～12:54  | |  |
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
 | 2026.4.26 | Event  |『I.K.T』発売記念 スペシャルトークイベント| |  |
