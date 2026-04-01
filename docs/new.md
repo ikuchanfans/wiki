@@ -61,9 +61,11 @@ slug: /
 | 2026.4.5 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#27 12:00～12:54  | |  |
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
+| 2026.4.25 | 音乐  | 『I.K.T』サイン会＆お渡し会 タワーレコード渋谷店　B1F CUTUP STUDIO(東京都)| |  |
 | 2026.4.26 | Event  |『I.K.T』発売記念 スペシャルトークイベント| |  |
 | 2026.5.6 | 音乐  | Single『今も、ありがとう』发售| |  |
 | 2026.5.6 | 音乐  | 『Happy Mother's Day！～母に感謝のコンサート2026 in TOKYO～』OPEN 16:00 / START 17:00 サントリーホール 大ホール| |  |
+| 2026.5.17 | 音乐  | 『I.K.T』サイン会＆お渡し会 タワーレコード梅田NU茶屋町店(大阪府)| |  |
 | 2026.6.18 | 音乐  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
