@@ -60,6 +60,7 @@ slug: /
 | 2026.4.4 | 音乐  | 『Venue101』#107 MC 23:00～ 嘉宾:川上洋平×SennaRin『ENDROLL』櫻坂46『The growing up train』juicejuice『盛れミアモーレ』MAZZEL『Get Up And Dance』| |  |
 | 2026.4.5 | 广播  | 『小西陸斗 よどオシ！』1:00~  | |  |
 | 2026.4.5 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#27 12:00～12:54  | |  |
+| 2026.4.10 | 音乐  | 『青い春』先行配信| |  |
 | 2026.4.11 | 音乐  | 『Venue101』#108 MC 23:00～ 嘉宾:Aooo『Yankeee』KisMyFt2『HEARTLOUD』NiziU『Too Bad』BEFIRST『BE:FIRST ALL DAY』| |  |
 | 2026.4.12 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
