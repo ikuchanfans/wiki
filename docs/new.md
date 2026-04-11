@@ -64,8 +64,10 @@ slug: /
 | 2026.4.11 | 音乐  | 『Venue101』#108 MC 23:00～ 嘉宾:Aooo『Yankeee』KisMyFt2『HEARTLOUD』NiziU『Too Bad』BEFIRST『BE:FIRST ALL DAY』| |  |
 | 2026.4.12 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
+| 2026.4.18 | 音乐  | 『Venue101』#109 MC 23:00～ 嘉宾:INI『All 4 U』andTEAM『WeonFire』TravisJapan『陰ニモ日向ニモ』乃木坂46『最後に階段を駆け上がったのはいつだ？』| |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
 | 2026.4.25 | 音乐  | 『I.K.T』サイン会＆お渡し会 タワーレコード渋谷店　B1F CUTUP STUDIO(東京都)| |  |
+| 2026.4.25 | 音乐  | 『Venue101』#110 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.4.26 | Event  |『I.K.T』発売記念 スペシャルトークイベント| |  |
 | 2026.5.6 | 音乐  | Single『今も、ありがとう』发售| |  |
 | 2026.5.6 | 音乐  | 『Happy Mother's Day！～母に感謝のコンサート2026 in TOKYO～』OPEN 16:00 / START 17:00 サントリーホール 大ホール| |  |
