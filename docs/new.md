@@ -63,7 +63,7 @@ slug: /
 | 2026.4.10 | 音乐  | 『青い春』先行配信| |  |
 | 2026.4.11 | 音乐  | 『Venue101』#108 MC 23:00～ 嘉宾:Aooo『Yankeee』KisMyFt2『HEARTLOUD』NiziU『Too Bad』BEFIRST『BE:FIRST ALL DAY』| |  |
 | 2026.4.12 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
-| 2026.4.13 | 广播  | FM NACK5『キラスタ』 18:00～(18:45頃)    | |  |
+| 2026.4.13 | 广播  | FM NACK5『キラスタ』 18:00～(18:47頃)    | |  |
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
 | 2026.4.18 | 音乐  | 『Venue101』#109 MC 23:00～ 嘉宾:INI『All 4 U』andTEAM『WeonFire』TravisJapan『陰ニモ日向ニモ』乃木坂46『最後に階段を駆け上がったのはいつだ？』| |  |
 | 2026.4.19 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
