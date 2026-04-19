@@ -69,7 +69,9 @@ slug: /
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
 | 2026.4.18 | 音乐  | 『Venue101』#109 MC 23:00～ 嘉宾:INI『All 4 U』andTEAM『WeonFire』TravisJapan『陰ニモ日向ニモ』乃木坂46『最後に階段を駆け上がったのはいつだ？』| |  |
 | 2026.4.19 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
+| 2026.4.21 | 广播  | LOVE FM『music × serendipity』 15:00～18:54  | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
+| 2026.4.22 | 广播  | FM FUKUOKA 『Hyper Night Program GOW!!』 16:30～20:25  | |  |
 | 2026.4.22 | 直播  | Instagram直播 18:45~| |  |
 | 2026.4.22 | 直播  | YouTube直播 19:00～20:00| |  |
 | 2026.4.22 | 直播  | AWAリスニングパーティー 20:00～21:00| |  |
