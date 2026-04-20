@@ -69,17 +69,23 @@ slug: /
 | 2026.4.18  | 音乐剧  | 『リア王』放送‧配信決定 | |  |
 | 2026.4.18 | 音乐  | 『Venue101』#109 MC 23:00～ 嘉宾:INI『All 4 U』andTEAM『WeonFire』TravisJapan『陰ニモ日向ニモ』乃木坂46『最後に階段を駆け上がったのはいつだ？』| |  |
 | 2026.4.19 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#28 12:00～12:54  | |  |
+| 2026.4.20 | 杂志  |『月刊ピアノ』5月号 タブレット楽譜入門  | |  |
+| 2026.4.20 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.21 | 广播  | LOVE FM『music × serendipity』 15:00～18:54  | |  |
+| 2026.4.21 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
+| 2026.4.22 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
 | 2026.4.22 | 广播  | FM FUKUOKA 『Hyper Night Program GOW!!』 16:30～20:25  | |  |
 | 2026.4.22 | 直播  | Instagram直播 18:45~| |  |
 | 2026.4.22 | 直播  | YouTube直播 19:00～20:00| |  |
 | 2026.4.22 | 直播  | AWAリスニングパーティー 20:00～21:00| |  |
+| 2026.4.23 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.24 | 音乐  | 『バズリズム02』『今も、ありがとう』初披露 24:59-25:59| |  |
 | 2026.4.25 | 音乐  | 『I.K.T』サイン会＆お渡し会 タワーレコード渋谷店　B1F CUTUP STUDIO(東京都)| |  |
 | 2026.4.25 | 音乐  | 『Venue101』#110 MC 23:00～ 嘉宾:AyumuImazu『CLASSIC』Number_i『3XL』にしな『グローリー』HANA『BadGirl』| |  |
 | 2026.4.26 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#29 12:00～12:54  | |  |
 | 2026.4.26 | Event  |『I.K.T』発売記念 スペシャルトークイベント| |  |
+| 2026.4.27 | 晨间剧  | 『風、薫る』#21 玉田多江 役 | |  |
 | 2026.5.2 | 音乐  | 『Venue101』#111 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.5.6 | 音乐  | Single『今も、ありがとう』发售| |  |
 | 2026.5.6 | 音乐  | 『Happy Mother's Day！～母に感謝のコンサート2026 in TOKYO～』OPEN 16:00 / START 17:00 サントリーホール 大ホール| |  |
