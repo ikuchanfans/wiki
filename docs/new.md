@@ -73,12 +73,12 @@ slug: /
 | 2026.4.20 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.21 | 广播  | LOVE FM『music × serendipity』 15:00～18:54  | |  |
 | 2026.4.21 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
-| 2026.4.22 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.22 | 音乐  | 1st Album『I.K.T（I Know Tomorrow）』发售| [特設ページ](https://erikaikuta.jp/s/m12/page/1st_al_release?ima=1940)|  |
 | 2026.4.22 | 广播  | FM FUKUOKA 『Hyper Night Program GOW!!』 16:30～20:25  | |  |
 | 2026.4.22 | 直播  | Instagram直播 18:45~| |  |
 | 2026.4.22 | 直播  | YouTube直播 19:00～20:00| |  |
 | 2026.4.22 | 直播  | AWAリスニングパーティー 20:00～21:00| |  |
+| 2026.4.22 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.23 | 广播  | J-WAVE『Sanrio SMILEY SMILE』生田絵梨花×杉山勝彦 21:30～  | |  |
 | 2026.4.24 | 音乐  | 『バズリズム02』『今も、ありがとう』初披露 24:59-25:59| |  |
 | 2026.4.25 | 音乐  | 『I.K.T』サイン会＆お渡し会 タワーレコード渋谷店　B1F CUTUP STUDIO(東京都)| |  |
