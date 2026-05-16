@@ -122,10 +122,11 @@ slug: /
 | 2026.5.21 | 晨间剧  | 『風、薫る』#39 玉田多江 役 08:00~08:15| |  |
 | 2026.5.22 | 晨间剧  | 『風、薫る』#40 玉田多江 役 08:00~08:15| |  |
 | 2026.6.14 | 晨间剧  | 『風、薫る』谈话活动 上坂樹里×生田絵梨花 日本医科大学 武蔵小杉キャンパス 14:00~ | |  |
-| 2026.6.18 | 音乐  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
+| 2026.6.18 | Live  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
 | 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 神奈川 よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.9.25 | Live  | 『meiyo presents SYMPOPSIUM 2026』 東京キネマ倶楽部 開場：18:00 開演：19:00 GUEST:生田絵梨花| |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
