@@ -138,10 +138,10 @@ slug: /
 | 2026.6.5 | 晨间剧  | 『風、薫る』#50 玉田多江 役 08:00~08:15| |  |
 | 2026.6.6 | 音乐  | 『Venue101』#114 MC 23:00～ 嘉宾:キタニタツヤ『火種』櫻坂46『Lonesome rabbit』ふみの『よくあるはなし』MILK『アイドルパワー』| |  |
 | 2026.6.7 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#36 12:00～12:54 | |  |
-| 2026.6.13 | 音乐  | 『Venue101』#115 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.6.14 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#37 12:00～12:54 | |  |
 | 2026.6.14 | 晨间剧  | 『風、薫る』谈话活动 上坂樹里×生田絵梨花 日本医科大学 武蔵小杉キャンパス 14:00~ | |  |
 | 2026.6.18 | Live  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
+| 2026.6.20 | 音乐  | 『Venue101』#115 MC 23:00～23:45 嘉宾:Aぇǃgroup『でこぼこライフ』Kvi Baba『BPM feat. KREVA』THE JET BOY BANGERZ『BLACK SHEEP』JI BLUE『景色』≠ME『愛くださいませ』| |  |
 | 2026.6.27 | 音乐  | 『Venue101 EXTRA』 MC 出演：アイナ・ジ・エンド、=LOVE、FRUITS ZIPPER、NCT WISH、超ときめき♡宣伝部、NEXZ、B&ZAI、ME:I、Mega Shinnosuke 東京・NHKホール 18:00開場　19:15開演　21:30終演予定| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
