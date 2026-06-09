@@ -148,6 +148,10 @@ slug: /
 | 2026.6.18 | Live  | 『昆夏美 デビュー15周年記念』 東京国際フォーラム ホールA 14:30公演 GUEST:生田絵梨花| |  |
 | 2026.6.20 | 音乐  | 『Venue101』#115 MC 23:00～23:45 嘉宾:Aぇǃgroup『でこぼこライフ』Kvi Baba『BPM feat. KREVA』THE JET BOY BANGERZ『BLACK SHEEP』JI BLUE『景色』≠ME『愛くださいませ』| |  |
 | 2026.6.27 | 音乐  | 『Venue101 EXTRA』 MC 出演：アイナ・ジ・エンド、=LOVE、FRUITS ZIPPER、NCT WISH、超ときめき♡宣伝部、NEXZ、B&ZAI、ME:I、Mega Shinnosuke 東京・NHKホール 18:00開場　19:15開演　21:30終演予定| |  |
+| 2026.7.11 | 电视剧  | 『天城越え』NHK総合放送【前編】22:00〜22:44| |  |
+| 2026.7.16 | 电视剧  | 『天城越え』NHK総合放送【前編】0:35〜1:19| |  |
+| 2026.7.18 | 电视剧  | 『天城越え』NHK総合放送【後編】22:00〜22:44| |  |
+| 2026.7.23 | 电视剧  | 『天城越え』NHK総合放送【後編】0:35〜1:19| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
