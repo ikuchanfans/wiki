@@ -155,6 +155,7 @@ slug: /
 | 2026.6.20 | 音乐  | 『Venue101』#115 MC 23:00～23:45 嘉宾:Aぇǃgroup『でこぼこライフ』Kvi Baba『BPM feat. KREVA』THE JET BOY BANGERZ『BLACK SHEEP』JI BLUE『景色』≠ME『愛くださいませ』| |  |
 | 2026.6.21 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#38 12:00～12:54 | |  |
 | 2026.6.27 | 音乐  | 『Venue101 EXTRA』 MC 出演：アイナ・ジ・エンド、=LOVE、FRUITS ZIPPER、NCT WISH、超ときめき♡宣伝部、NEXZ、B&ZAI、ME:I、Mega Shinnosuke 東京・NHKホール 18:00開場　19:15開演　21:30終演予定| |  |
+| 2026.7.5 | 晨间剧  | 『風、薫る』谈话活动 上坂樹里×生田絵梨花 放送 13:05~ | |  |
 | 2026.7.11 | 电视剧  | 『天城越え』NHK総合放送【前編】22:00〜22:44| |  |
 | 2026.7.16 | 电视剧  | 『天城越え』NHK総合放送【前編】0:35〜1:19| |  |
 | 2026.7.18 | 电视剧  | 『天城越え』NHK総合放送【後編】22:00〜22:44| |  |
