@@ -183,6 +183,7 @@ slug: /
 | 2026.7.23 | 电视剧  | 『天城越え』NHK総合放送【後編】0:35〜1:19| |  |
 | 2026.8.1 | CM  | 『三ツ矢サイダー』新CM | |  |;
 | 2026.8.15 | 音乐  | 『NHK夏の音楽祭 うたであえたら2026』 18:05~| |  |
+| 2026.8.21 | 电视剧  | 『銭形平次』NHKスペシャル時代劇 22:00〜| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
