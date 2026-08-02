@@ -205,6 +205,7 @@ slug: /
 | 2026.8.1 | 音乐  | 『Venue101』#117 MC 23:00～ 嘉宾:ILLIT『Its Me』ATEEZ『BAD』OCTPATH『まっすぐなまま』King&Prince『SoHoney』乃木坂46『是非に及ばず』| |  |
 | 2026.8.2 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#43 12:00～12:54 | |  |
 | 2026.8.15 | 音乐  | 『NHK夏の音楽祭 うたであえたら2026』 18:05~| |  |
+| 2026.8.21 | 番组  | 『チコちゃんに叱られる!』 19:57〜| |  |
 | 2026.8.21 | 电视剧  | 『銭形平次』NHKスペシャル時代劇 22:00〜| |  |
 | 2026.8.22 | Live  | 『ディズニー・オン・アイス』スペシャルオープニングアクト開催決定【横浜公演】 17:30~| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
