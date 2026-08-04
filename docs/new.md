@@ -224,3 +224,4 @@ slug: /
 | 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
 | 2026.9.25 | Live  | 『meiyo presents SYMPOPSIUM 2026』 東京キネマ倶楽部 開場：18:00 開演：19:00 GUEST:生田絵梨花| |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
+| 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
