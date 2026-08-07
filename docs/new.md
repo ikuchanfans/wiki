@@ -220,7 +220,7 @@ slug: /
 | 2026.8.29 | 音乐  | 『Venue101』#118 MC 23:00～ 嘉宾:『』『』『』『』『』| |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
-| 2026.9.19 | 音乐  | 『Venue101 EXTRA』 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK  18:45開場　19:30開演　21:30終演予定| |  |
+| 2026.9.19 | 音乐  | 『Venue101 EXTRA』 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK ONEW Da_iCE BALLISTIKBOYZ  18:45開場　19:30開演　21:30終演予定| |  |
 | 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 神奈川 よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
 | 2026.9.25 | Live  | 『meiyo presents SYMPOPSIUM 2026』 東京キネマ倶楽部 開場：18:00 開演：19:00 GUEST:生田絵梨花| |  |
