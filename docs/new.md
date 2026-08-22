@@ -231,7 +231,7 @@ slug: /
 | 2026.8.23 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#47 12:00～12:54 | |  |
 | 2026.8.26 | solo  | 『にゃんとかにゃるる』配信| |  |
 | 2026.8.26 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 LINE CUBE SHIBUYA OPEN 17:30 / START 18:30 | |  |
-| 2026.8.29 | 音乐  | 『Venue101』#118 MC 23:00～ 嘉宾:『』『』『』『』『』| |  |
+| 2026.8.29 | 音乐  | 『Venue101』#118 MC 23:00～ 嘉宾:INI『You Know What To Do』＝LOVE『恋、はじめました。』EBiDAN『Yes! 東京』CUTIESTREET『キュートなキューたい』TOMORROW_X_TOGETHER『セツナハナビ』| |  |
 | 2026.8.30 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 宮城 東京エレクトロンホール宮城 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
 | 2026.9.19 | 音乐  | 『Venue101 EXTRA』 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK ONEW Da_iCE BALLISTIKBOYZ  18:45開場　19:30開演　21:30終演予定| |  |
