@@ -253,4 +253,5 @@ slug: /
 | 2026.9.25 | Live  | 『meiyo presents SYMPOPSIUM 2026』 東京キネマ倶楽部 開場：18:00 開演：19:00 GUEST:生田絵梨花| |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
+| 2026.10.15 | 电视剧  | 『波うららかに、めおと日和』 深見芙美子 役 22:00~ | |  |
 | 2026.10.26 | Live  | 武満徹 NHK音楽祭関連企画『ASOBIBA TAKEMITSU』NHKホール（東京・渋谷） 19:30開演 | |  |
