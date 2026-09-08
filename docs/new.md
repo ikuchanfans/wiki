@@ -249,6 +249,7 @@ slug: /
 | 2026.9.12 | 音乐  | 『Venue101』#120 MC 23:00～ 嘉宾:中島健人『鬼事』ハク。『それしか言えない』BOYNEXTDOOR『BoomBoomBoom』MON7A『僕のかわい子ちゃん』| |  |
 | 2026.9.13 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#50 12:00～12:54 | |  |
 | 2026.9.13 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 大阪 NHK大阪ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.9.15 | 音乐  | 『うたコン』19:57～ 『』| |  |
 | 2026.9.19 | 音乐  | 『Venue101 EXTRA』 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK ONEW Da_iCE BALLISTIKBOYZ  18:45開場　19:30開演　21:30終演予定| |  |
 | 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 神奈川 よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
 | 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
