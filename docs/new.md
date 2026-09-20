@@ -263,10 +263,16 @@ slug: /
 | 2026.9.19 | 音乐  | 『Venue101 EXTRA』 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK ONEW Da_iCE BALLISTIKBOYZ  18:45開場　19:30開演　21:30終演予定| |  |
 | 2026.9.20 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#51 12:00～12:54 | |  |
 | 2026.9.20 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 神奈川 よこすか芸術劇場 OPEN 16:30 / START 17:30 | |  |
+| 2026.9.21 | 晨间剧  | 『風、薫る』#126 玉田多江 役 08:00~08:15| |  |
+| 2026.9.22 | 晨间剧  | 『風、薫る』#127 玉田多江 役 08:00~08:15| |  |
 | 2026.9.22 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 愛知 愛知県芸術劇場 大ホール OPEN 16:30 / START 17:30 | |  |
+| 2026.9.23 | 晨间剧  | 『風、薫る』#128 玉田多江 役 08:00~08:15| |  |
+| 2026.9.24 | 晨间剧  | 『風、薫る』#129 玉田多江 役 08:00~08:15| |  |
 | 2026.9.24 | 番组  | 『タビフクヤマ』 22:15~23:09 | |  |
+| 2026.9.25 | 晨间剧  | 『風、薫る』#130 玉田多江 役 08:00~08:15| |  |
 | 2026.9.25 | Live  | 『meiyo presents SYMPOPSIUM 2026』 東京キネマ倶楽部 開場：18:00 開演：19:00 GUEST:生田絵梨花| |  |
 | 2026.9.26 | 音乐  | 『Venue101 EXTRA』放送 MC 23:00～ 嘉宾：新しい学校のリーダーズ『TTTTOKYO』ONEW『エイリアンズ』Da_iCE『アンリミテッド』MILK『時空超えてユニバース』| |  |
+| 2026.9.27 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#52 12:00～12:54 | |  |
 | 2026.10.3 | 音乐  | 『Venue101 EXTRA』放送 MC 出演：新しい学校のリーダーズ AyumuImazu ≒JOY M!LK ONEW Da_iCE BALLISTIKBOYZ  23:00～   | |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
