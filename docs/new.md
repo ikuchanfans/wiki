@@ -276,6 +276,7 @@ slug: /
 | 2026.9.27 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#52 12:00～12:54 | |  |
 | 2026.10.3 | 音乐  | 『Venue101 EXTRA』放送 MC 出演：AyumuImazu『Bassline』≒JOY『サマーツインテール』BALLISTIKBOYZ『Do Don PA!!』MILK『YouJoyParade』23:00～ | |  |
 | 2026.10.4 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#53 12:00～12:54 | |  |
+| 2026.10.4 | 番组  | 『かまいまち』 200:00～ | |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
 | 2026.10.15 | 电视剧  | 『波うららかに、めおと日和』 深見芙美子 役 22:00~ | |  |
