@@ -277,8 +277,10 @@ slug: /
 | 2026.10.3 | 音乐  | 『Venue101 EXTRA』放送 MC 出演：AyumuImazu『Bassline』≒JOY『サマーツインテール』BALLISTIKBOYZ『Do Don PA!!』MILK『YouJoyParade』23:00～ | |  |
 | 2026.10.4 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#53 12:00～12:54 | |  |
 | 2026.10.8 | 番组  | 『かまいまち』 19:00～21:00 | |  |
+| 2026.10.10 | 音乐  | 『Venue101』#121 MC 23:00～ 嘉宾:INI『WeAre』imase『風になれるはず』STU48『冬服に着替えたら』&TEAM『GoodBoy』| |  |
 | 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
 | 2026.10.15 | 电视剧  | 『波うららかに、めおと日和』 深見芙美子 役 22:00~ | |  |
+| 2026.10.17 | 音乐  | 『Venue101』#122 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.10.26 | Live  | 武満徹 NHK音楽祭関連企画『ASOBIBA TAKEMITSU』NHKホール（東京・渋谷） 19:30開演 | |  |
 | 2026.10.31 | Event  | 『にゃんとかにゃるる』発売記念　スペシャルトークイベント 17:00～ | |  |
