@@ -281,8 +281,8 @@ slug: /
 | 2026.10.10 | 音乐  | 『Venue101』#121 MC 23:00～ 嘉宾:INI『WeAre』imase『風になれるはず』STU48『冬服に着替えたら』&TEAM『GoodBoy』| |  |
 | 2026.10.11 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#54 12:00～12:54 | |  |
 | 2026.10.12 | 新闻  | 『めざましテレビ』 | |  |
-| 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.14 | solo  | 『にゃんとかにゃるる』CD发售| |  |
+| 2026.10.14 | Live  | Erika Ikuta Tour 2026『I.K.T』I Know Tomorrow 東京 NHKホール OPEN 17:30 / START 18:30 | |  |
 | 2026.10.15 | 电视剧  | 『波うららかに、めおと日和』 深見芙美子 役 22:00~ | |  |
 | 2026.10.17 | 音乐  | 『Venue101』#122 MC 23:00～ 嘉宾:櫻坂46『愛MUST BE』Number_i『REBON』日向坂46『イチャイチャ虫』| |  |
 | 2026.10.18 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#55 12:00～12:54 | |  |
