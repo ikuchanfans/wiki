@@ -293,3 +293,5 @@ slug: /
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
 | 2026.12.23 | Live  | 『Erika Ikuta Premium Billboard Live 2026』東京都 ビルボードライブ東京 ［1st］OPEN 16:30 / START 17:30| |  |
 | 2026.12.23 | Live  | 『Erika Ikuta Premium Billboard Live 2026』東京都 ビルボードライブ東京 ［2nd］OPEN 19:30 / START 20:30| |  |
+| 2027.1.22 | Event  | 『Erika Ikuta Birthday Event 2027』Zepp Haneda (TOKYO) 昼公演　OPEN 14:00 / START 15:00 | |  |
+| 2027.1.22 | Event  | 『Erika Ikuta Birthday Event 2027』Zepp Haneda (TOKYO) 夜公演　OPEN 17:30 / START 18:30 | |  |
