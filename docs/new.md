@@ -289,3 +289,7 @@ slug: /
 | 2026.10.24 | 音乐  | 『Venue101』#123 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.10.26 | Live  | 武満徹 NHK音楽祭関連企画『ASOBIBA TAKEMITSU』NHKホール（東京・渋谷）『めぐり逢い』 19:30開演 | |  |
 | 2026.10.31 | Event  | 『にゃんとかにゃるる』発売記念　スペシャルトークイベント 17:00～ | |  |
+| 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［1st］OPEN 15:00 / START 16:00 | |  |
+| 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
+| 2026.12.23 | Live  | 『Erika Ikuta Premium Billboard Live 2026』東京都 ビルボードライブ東京 ［1st］OPEN 16:30 / START 17:30| |  |
+| 2026.12.23 | Live  | 『Erika Ikuta Premium Billboard Live 2026』東京都 ビルボードライブ東京 ［2nd］OPEN 19:30 / START 20:30| |  |
