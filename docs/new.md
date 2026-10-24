@@ -294,7 +294,8 @@ slug: /
 | 2026.10.26 | Live  | 武満徹 NHK音楽祭関連企画『ASOBIBA TAKEMITSU』NHKホール（東京・渋谷）『めぐり逢い』 19:30開演 | |  |
 | 2026.10.29 | 电视剧  | 『波うららかに、めおと日和2』#3 深見芙美子 役 22:00~ | |  |
 | 2026.10.31 | Event  | 『にゃんとかにゃるる』発売記念　スペシャルトークイベント 17:00～ | |  |
-| 2026.10.31 | 音乐  | 『Venue101』#124 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2026.10.31 | 音乐  | 『Venue101』上半期のVenue総集篇 MC 23:00～ | |  | 
+| 2026.11.7 | 音乐  | 『Venue101』#124 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.11.21 | Live  | 『Erika Ikuta Tour 2026『I.K.T』~ I Know Tomorrow ~ 』U-NEXTで独占ライブ配信 19:00~ | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［1st］OPEN 15:00 / START 16:00 | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
