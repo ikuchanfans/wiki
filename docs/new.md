@@ -298,7 +298,8 @@ slug: /
 | 2026.10.31 | 音乐  | 『Venue101』上半期のVenue総集篇 MC 23:00～ | |  | 
 | 2026.11.1 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#57 12:00～12:54 | |  |
 | 2026.11.5 | 电视剧  | 『波うららかに、めおと日和2』#4 深見芙美子 役 22:00~ | |  |
-| 2026.11.7 | 音乐  | 『Venue101』#124 MC 23:00～ 嘉宾:『』『』『』『』| |  |
+| 2026.11.7 | 音乐  | 『Venue101』#124 MC 23:00～ 嘉宾:Ayumu Imazu『結び』Aぇǃgroup『Emotion』KEY TO LIT『KEY TERUYA2 〜キテルヤツ〜』VOLTACTION『逆に的な I LOVE YOU』| |  |
+| 2026.11.14 | 音乐  | 『Venue101』#125 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.11.21 | Live  | 『Erika Ikuta Tour 2026『I.K.T』~ I Know Tomorrow ~ 』U-NEXTで独占ライブ配信 19:00~ | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［1st］OPEN 15:00 / START 16:00 | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
