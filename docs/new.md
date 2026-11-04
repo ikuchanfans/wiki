@@ -297,6 +297,7 @@ slug: /
 | 2026.10.31 | Event  | 『にゃんとかにゃるる』発売記念　スペシャルトークイベント 17:00～ | |  |
 | 2026.10.31 | 音乐  | 『Venue101』上半期のVenue総集篇 MC 23:00～ | |  | 
 | 2026.11.1 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#57 12:00～12:54 | |  |
+| 2026.11.4 | 杂志  | 『TVstation24号』 | |  |
 | 2026.11.5 | 电视剧  | 『波うららかに、めおと日和2』#4 深見芙美子 役 22:00~ | |  |
 | 2026.11.7 | 音乐  | 『Venue101』#124 MC 23:00～ 嘉宾:Ayumu Imazu『結び』Aぇǃgroup『Emotion』KEY TO LIT『KEY TERUYA2 〜キテルヤツ〜』VOLTACTION『逆に的な I LOVE YOU』| |  |
 | 2026.11.8 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#58 12:00～12:54 | |  |
