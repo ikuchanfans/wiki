@@ -307,6 +307,7 @@ slug: /
 | 2026.11.20 | Event  | 『東京クリスマスマーケット2026』新豊洲 点灯式 开场16:00 点灯17:00 | |  |
 | 2026.11.21 | Live  | 『Erika Ikuta Tour 2026『I.K.T』~ I Know Tomorrow ~ 』U-NEXTで独占ライブ配信 19:00~ | |  |
 | 2026.11.22 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#60 12:00～12:54 | |  |
+| 2026.11.24 | 杂志  | 『デジタルTVガイド』1月号 | |  |
 | 2026.11.28 | 音乐  | 『Venue101』#125 MC 23:00～ 嘉宾:『』『』『』『』| |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［1st］OPEN 15:00 / START 16:00 | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
