@@ -314,6 +314,8 @@ slug: /
 | 2026.11.28 | 音乐  | 『Venue101』#125 MC 23:00～ 嘉宾:Kis-My-Ft2『La la la』キタニタツヤ『F.A.C.E.』原因は自分にある。『ラブリーズン』MAZZEL『Touch』| |  |
 | 2026.11.29 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#61 12:00～12:54 | |  |
 | 2026.12.1 | 番组  | 『華大さんと千鳥くん』 22:00～ | |  |
+| 2026.12.3 | 电视剧  | 『波うららかに、めおと日和2』#8 深見芙美子 役 22:00~ | |  |
+| 2026.12.6 | 广播  | J-WAVE 81.3FM『ADEKA KLEINE WUNDER』#62 12:00～12:54 | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［1st］OPEN 15:00 / START 16:00 | |  |
 | 2026.12.6 | Live  | 『Erika Ikuta Premium Billboard Live 2026』神奈川県 ビルボードライブ横浜 ［2nd］OPEN 18:00 / START 19:00| |  |
 | 2026.12.20 | Live  | 『クラシック音楽館』武満徹 NHK音楽祭関連企画『ASOBIBA TAKEMITSU』放送『』 21:00~23:00 | |  |
